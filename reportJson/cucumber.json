@@ -1,0 +1,102 @@
+[
+  {
+    "line": 4,
+    "elements": [
+      {
+        "line": 9,
+        "name": "Enter to the form page",
+        "description": "",
+        "type": "background",
+        "keyword": "Background",
+        "steps": [
+          {
+            "result": {
+              "duration": 25603668581,
+              "status": "passed"
+            },
+            "line": 10,
+            "name": "that I am in the form page",
+            "match": {
+              "location": "BancolombiaSimulationStepDefinitios.thatIAmInTheFormPage()"
+            },
+            "keyword": "Given "
+          }
+        ]
+      },
+      {
+        "before": [
+          {
+            "result": {
+              "duration": 5292387391,
+              "status": "passed"
+            },
+            "match": {
+              "location": "BancolombiaSimulationStepDefinitios.setUp()"
+            }
+          }
+        ],
+        "line": 18,
+        "name": "Form not fill",
+        "description": "",
+        "id": "bancolombia-car-credit-simulation;form-not-fill",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "result": {
+              "duration": 802623813,
+              "status": "passed"
+            },
+            "line": 19,
+            "name": "I see the fields below",
+            "match": {
+              "location": "BancolombiaSimulationStepDefinitios.iSeeTheFieldsBelow()"
+            },
+            "keyword": "When "
+          },
+          {
+            "result": {
+              "duration": 551383742,
+              "status": "passed"
+            },
+            "line": 20,
+            "name": "I hope to see the error message \"Este campo es obligatorio.\" for every field",
+            "match": {
+              "arguments": [
+                {
+                  "val": "Este campo es obligatorio.",
+                  "offset": 33
+                }
+              ],
+              "location": "BancolombiaSimulationStepDefinitios.iHopeToSeeTheErrorMessageForEveryField(String)"
+            },
+            "keyword": "Then "
+          }
+        ],
+        "tags": [
+          {
+            "name": "@BancolombiacreditSimulation"
+          },
+          {
+            "name": "@SecondScenario"
+          }
+        ]
+      }
+    ],
+    "name": "Bancolombia car credit simulation",
+    "description": "    As a Bancolombia�s client\n    I want to simulate a car�s credit\n    To know if I have capacity to buy a car",
+    "id": "bancolombia-car-credit-simulation",
+    "keyword": "Feature",
+    "uri": "src/test/resources/features/bancolombia_simulation.feature",
+    "tags": [
+      {
+        "name": "@BancolombiacreditSimulation",
+        "type": "Tag",
+        "location": {
+          "line": 3,
+          "column": 3
+        }
+      }
+    ]
+  }
+]

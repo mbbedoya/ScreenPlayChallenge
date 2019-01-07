@@ -1,0 +1,2517 @@
+<!DOCTYPE html><html xmlns="http://www.w3.org/1999/xhtml" lang="es"><head><script>$(function(){$('.gcb-hasChatBtn').length&gt;0&amp;&amp;$('#pruebaChat').click(function(t){t.preventDefault(),$('.gcb-startChat').trigger('click')})});</script><style type="text/css">@charset "UTF-8";[ng\:cloak],[ng-cloak],[data-ng-cloak],[x-ng-cloak],.ng-cloak,.x-ng-cloak,.ng-hide{display:none !important;}ng\:form{display:block;}.ng-animate-block-transitions{transition:0s all!important;-webkit-transition:0s all!important;}.ng-hide-add-active,.ng-hide-remove{display:block!important;}</style>
+<meta charset="utf-8" />
+<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+<meta name="viewport" content="width=device-width, initial-scale=1" />
+<meta name="google" content="notranslate" />
+
+<link rel="stylesheet" href="/wps/contenthandler/!ut/p/digest!OFDFfhPHsZwvGO-EVRA2Gw/sp/mashup:ra:collection?soffset=0&amp;eoffset=23&amp;themeID=ZJ_9IH00JK0LOO8F0A5R60LC93006&amp;locale=en&amp;mime-type=text%2Fcss&amp;lm=1524396270000&amp;entry=wp_one_ui_303__0.0%3Ahead_css&amp;entry=wp_one_ui_dijit_303__0.0%3Ahead_css&amp;entry=wp_toolbar_common__0.0%3Ahead_css&amp;entry=wp_status_bar__0.0%3Ahead_css&amp;entry=wp_dialog_css__0.0%3Ahead_css&amp;entry=wp_portlet_css__0.0%3Ahead_css&amp;entry=wp_social_rendering_85__0.0%3Ahead_css&amp;entry=wp_toolbar_projectmenu__0.0%3Ahead_css&amp;entry=wp_toolbar_common_actionbar__0.0%3Ahead_css&amp;entry=wp_toolbar_sitepreview__0.0%3Ahead_css&amp;entry=wp_toolbar_logo__0.0%3Ahead_css&amp;entry=wp_simple_contextmenu_css__0.0%3Ahead_css&amp;entry=wp_toolbar_actionbar__0.0%3Ahead_css&amp;entry=wp_ic4_wai_resources__0.0%3Ahead_css&amp;entry=wp_theme_portal_85__0.0%3Ahead_css&amp;entry=wp_toolbar_moremenu__0.0%3Ahead_css&amp;entry=wp_oob_sample_styles__0.0%3Ahead_css" type="text/css" /><link rel="alternate" id="head_css_deferred" href="/wps/contenthandler/!ut/p/digest!OFDFfhPHsZwvGO-EVRA2Gw/sp/mashup:ra:collection?soffset=0&amp;eoffset=6&amp;themeID=ZJ_9IH00JK0LOO8F0A5R60LC93006&amp;locale=en&amp;mime-type=text%2Fcss&amp;lm=1512160368000&amp;entry=wp_contextmenu_css__0.0%3Ahead_css&amp;entry=wp_federated_documents_picker__0.0%3Ahead_css&amp;entry=wcm_inplaceEdit__0.0%3Ahead_css&amp;entry=wp_dnd_css__0.0%3Ahead_css&amp;entry=wp_content_targeting_cam__0.0%3Ahead_css&amp;deferred=true" /><script type="text/javascript" async="" src="https://www.google-analytics.com/gtm/js?id=GTM-TFW9R4P&amp;t=gtm1&amp;cid=629610876.1546792155&amp;aip=true"></script><script src="https://connect.facebook.net/signals/config/1057072597705880?v=2.8.35&amp;r=stable" async=""></script><script async="" src="https://connect.facebook.net/en_US/fbevents.js"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="//static.ads-twitter.com/uwt.js"></script><script type="text/javascript" async="" src="https://sjs.bizographics.com/insight.min.js"></script><script type="text/javascript" async="" src="//static.hotjar.com/c/hotjar-373418.js?sv=5"></script><script type="text/javascript" async="" src="https://www.google-analytics.com/analytics.js"></script><script type="text/javascript" async="" src="//www.googleadservices.com/pagead/conversion_async.js"></script><script async="" src="//www.googletagmanager.com/gtm.js?id=GTM-W95WRK"></script><script type="text/javascript">var djConfig={"baseUrl":"/wps/portal_dojo/v1.9/dojo/","locale":"en","isDebug":false,"debugAtAllCosts":false,"parseOnLoad":false,"afterOnLoad":false,"has":{"dojo-bidi":true},"modulePaths":{"com":"/wps/themeModules/js/com","ibm":"/wps/themeModules/js/ibm","pagebuilder":"/wps/themeModules/modules/pagebuilder/js","portalclient":"/wps/themeModules/modules/portalclient/js","asa":"/wps/themeModules/modules/asa/js","contentmapping":"/wps/themeModules/modules/contentmapping/js","federation":"/wps/themeModules/modules/federation/js"}};djConfig.locale=djConfig.locale.replace(/_/g, "-").replace(/iw/, "he").toLowerCase();(function(){if (typeof(wpModules) == 'undefined') wpModules = {}; if (typeof(wpModules.state) == 'undefined') wpModules.state = {}; if (typeof(wpModules.state.page) == 'undefined') wpModules.state.page = {};wpModules.state.page._initial=[{"nsuri":"http://www.ibm.com/xmlns/prod/websphere/portal/publicparams","name":"selection","value":["Z6_J19IH180L8MKD0AQ3AT1GI08L6"]},{"nsuri":"http://www.ibm.com/xmlns/prod/websphere/portal/publicparams","name":"labelMappings","value":["Z6_000000000000000000000000A0","Z6_J19IH180L8MKD0AQ3AT1GI08L6","Z6_J19IH180L8MKD0AQ3AT1GI08L6","Z6_000000000000000000000000A0"]},{"nsuri":"http://www.ibm.com/xmlns/prod/websphere/portal/publicparams","name":"expansions","value":["Z6_000000000000000000000000A0"]}];wpModules.state.page.selectionPath=['Z6_000000000000000000000000A0','Z6_J19IH180L8MKD0AQ3AT1GI08L6'];wpModules.state.page.supportsEditMode=true;wpModules.state.page.supportsToolbar=true;wpModules.state.page.path='/wps/portal';wpModules.state.page.protectedPath='/wps/myportal';wpModules.state.page.publicPath='/wps/portal';})();</script><script type="text/javascript" src="/wps/contenthandler/!ut/p/digest!OFDFfhPHsZwvGO-EVRA2Gw/mashup/ra:collection?themeID=ZJ_9IH00JK0LOO8F0A5R60LC93006&amp;locale=en&amp;mime-type=text%2Fjavascript&amp;lm=1512160370000&amp;entry=wp_client_main__0.0%3Ahead_js&amp;entry=wp_client_ext__0.0%3Ahead_js&amp;entry=wp_client_logging__0.0%3Ahead_js&amp;entry=wp_client_tracing__0.0%3Ahead_js&amp;entry=wp_modules__0.0%3Ahead_js&amp;entry=wp_state_page__0.0%3Ahead_js&amp;entry=wp_photon_dom__0.0%3Ahead_js&amp;entry=wp_dialog_util__0.0%3Ahead_js&amp;entry=wp_toolbar_common__0.0%3Ahead_js&amp;entry=wp_client_selector__0.0%3Ahead_js&amp;entry=wp_analytics_aggregator__0.0%3Ahead_js&amp;entry=wp_theme_utils__0.0%3Ahead_js&amp;entry=wp_dialog_draggable__0.0%3Ahead_js&amp;entry=wp_dialog_main__0.0%3Ahead_js&amp;entry=wp_toolbar_viewframe_validator__0.0%3Ahead_js&amp;entry=wp_social_rendering_85__0.0%3Ahead_js&amp;entry=wp_a11y__0.0%3Ahead_js&amp;entry=wp_theme_portal_85__0.0%3Ahead_js"></script><link rel="alternate" id="head_js_deferred" href="/wps/contenthandler/!ut/p/digest!AVpjyN-eMXoHdj8JKNHpMA/mashup/ra:collection?themeID=ZJ_9IH00JK0LOO8F0A5R60LC93006&amp;locale=en&amp;mime-type=text%2Fjavascript&amp;lm=1512160368000&amp;entry=dojo_19__0.0%3Ahead_js&amp;entry=dojo_app_19__0.0%3Ahead_js&amp;entry=dojo_dom_19__0.0%3Ahead_js&amp;entry=dojo_dnd_basic_19__0.0%3Ahead_js&amp;entry=dojo_fx_19__0.0%3Ahead_js&amp;entry=dojo_data_19__0.0%3Ahead_js&amp;entry=dojo_dnd_ext_19__0.0%3Ahead_js&amp;entry=dojo_selector_lite_19__0.0%3Ahead_js&amp;entry=dijit_19__0.0%3Ahead_js&amp;entry=dijit_layout_basic_19__0.0%3Ahead_js&amp;entry=dojox_layout_basic_19__0.0%3Ahead_js&amp;entry=dijit_menu_19__0.0%3Ahead_js&amp;entry=dojo_fmt_19__0.0%3Ahead_js&amp;entry=dijit_form_19__0.0%3Ahead_js&amp;entry=dijit_tree_19__0.0%3Ahead_js&amp;entry=dijit_layout_ext_19__0.0%3Ahead_js&amp;entry=wp_dnd_namespace__0.0%3Ahead_js&amp;entry=wp_dnd_source__0.0%3Ahead_js&amp;entry=wp_dnd_util__0.0%3Ahead_js&amp;entry=wp_contextmenu_js__0.0%3Ahead_js&amp;entry=wcm_inplaceEdit__0.0%3Ahead_js&amp;entry=wp_client_dnd__0.0%3Ahead_js&amp;entry=wp_dnd_target__0.0%3Ahead_js&amp;deferred=true" /><!--[if IE 7]>
+<script type="text/javascript">document.getElementsByTagName("html")[0].className+=" lotusui_ie lotusui_ie7";</script>
+<![endif]--> 
+<!--[if IE 8]>
+<script type="text/javascript">document.getElementsByTagName("html")[0].className+=" lotusui_ie8";</script>
+<![endif]-->
+<!--[if IE 9]>
+<script type="text/javascript">document.getElementsByTagName("html")[0].className+=" lotusui_ie9";</script>
+<![endif]-->
+<link id="I_S5_JVVud0" rel="alternate" href="https://www.grupobancolombia.com/wps/portal/acerca-de/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zivQwtPT0MLQx8LHy9XQwcA40dQwzdPQ0sfMz0w8EKDHAARwP9KGL041EQhd_4cP0oQkoKckMjDNIVFQF6jQtN/" /><script type="text/javascript">(function() {
+	var element = document.getElementById("I_S5_JVVud0");
+	if (element) {
+		wpModules.theme.WindowUtils.baseURL.resolve(element.href);
+	}
+}());</script><style id="layout-wstate-styles"></style><base href="https://www.grupobancolombia.com/wps/portal/acerca-de/!ut/p/z1/04_Sj9CPykssy0xPLMnMz0vMAfIjo8zivQwtPT0MLQx8LHy9XQwcA40dQwzdPQ0sfMz0w8EKDHAARwP9KGL041EQhd_4cP0oQkoKckMjDNIVFQF6jQtN/" />
+<title>Acerca De Nuestra Compañía</title>
+
+
+<meta content="Acerca de Bancolombia,acerca de bancolombia,informacion corporativa grupo bancolombia,roles del grupo bancolombia,gobierno corporativo" name="keywords" /><meta content="index, follow" name="robots" /><meta content="Conoce en este espacio quiénes somos, el Gobierno Corporativo que nos rige, nuestro rol económico, social y ambiental, y más en Acerca de Grupo Bancolombia." name="description" />
+	
+	<link id="com.ibm.lotus.NavStateUrl" rel="alternate" href="/wps/portal/acerca-de" />
+		
+	<link rel="bookmark" title="Acerca De" href="/wps/portal/acerca-de" hreflang="en" />
+
+
+			<link rel="canonical" href="https://www.grupobancolombia.com/wps/portal/acerca-de" />
+		<!-- <link -->
+<!-- 	rel="shortcut icon" type="image/x-icon" /> --><link rel="stylesheet" href="/Bancolombia_Acercade_estatico/themes/Bancolombia_Personas/css/styles/bancolombia.css" type="text/css" />
+
+<link rel="stylesheet" href="/Bancolombia_Acercade_estatico/themes/Bancolombia_Personas/css/styles/buscador-sucursales.css" type="text/css" />
+<link rel="stylesheet" href="/Bancolombia_Acercade_estatico/themes/Bancolombia_Personas/css/styles/modules/navegacion-min.css" type="text/css" />
+
+
+<script type="text/javascript" src="/Bancolombia_Acercade_estatico/themes/Bancolombia_Personas/js/menu.js"></script>
+ 
+<!--
+<script type="text/javascript" src="/Bancolombia_Acercade_estatico/themes/Bancolombia_Personas/js/menu-of.js"></script>
+-->
+<!--
+<script type="text/javascript" src="//code.jquery.com/jquery-1.10.2.min.js"></script>
+-->
+<script type="text/javascript" src="/Bancolombia_Acercade_estatico/themes/Bancolombia_Personas/js/jquery-1.10.2.min.js"></script>
+<!--
+<script type="text/javascript" src="//code.jquery.com/ui/1.11.2/jquery-ui.min.js"></script>
+-->
+<script type="text/javascript" src="/Bancolombia_Acercade_estatico/themes/Bancolombia_Personas/js/jquery-1.11.2.ui.min.js"></script>
+<!--
+<script type="text/javascript" src="//code.angularjs.org/1.2.19/angular.js" ></script>
+-->
+<script type="text/javascript" src="/Bancolombia_Acercade_estatico/themes/Bancolombia_Personas/js/angular.js"></script>
+<!--
+<script type="text/javascript" src="//angular-ui.github.io/bootstrap/ui-bootstrap-tpls-0.12.0.min.js" ></script>
+-->
+<script type="text/javascript" src="/Bancolombia_Acercade_estatico/themes/Bancolombia_Personas/js/ui-bootstrap-0.12.0.tpls.min.js"></script>
+
+<link rel="stylesheet" href="/Bancolombia_Acercade_estatico/themes/Bancolombia_Personas/css/styles/acerca-de-home-min.css" type="text/css" async="" />
+<link rel="stylesheet" href="/Bancolombia_Acercade_estatico/themes/Bancolombia_Personas/css/styles/aprender-es-facil-home-min.css" type="text/css" async="" />
+
+<link rel="stylesheet" href="/Bancolombia_Acercade_estatico/themes/Bancolombia_Personas/css/styles/arimo.css" type="text/css" async="" />
+
+<!-- 
+<link rel="stylesheet" href="css/styles/arimo-min.css" type="text/css" async >
+-->
+<link rel="stylesheet" href="/Bancolombia_Acercade_estatico/themes/Bancolombia_Personas/css/styles/forms-simulador-min.css" type="text/css" async="" />
+<link rel="stylesheet" href="/Bancolombia_Acercade_estatico/themes/Bancolombia_Personas/css/styles/vinculacion-min.css" type="text/css" async="" />
+
+<!-- <link rel="stylesheet" href="css/styles/modules/modules-combinado-min.css" type="text/css" defer> -->
+ 
+<link rel="stylesheet" href="/Bancolombia_Acercade_estatico/themes/Bancolombia_Personas/css/styles/modules/modules.css" type="text/css" />
+<link rel="stylesheet" href="/Bancolombia_Acercade_estatico/themes/Bancolombia_Personas/css/styles/animate.css" type="text/css" />
+
+<link rel="stylesheet" href="/Bancolombia_Acercade_estatico/themes/Bancolombia_Personas/css/styles/menu-negocios-especializados.css" type="text/css" />
+<!-- 
+<link rel="stylesheet" href="css/styles/modules/navegacion.css" type="text/css">
+-->
+<!-- 
+<link rel="stylesheet" href="css/styles/modules/modules-min.css" type="text/css" async >
+-->
+<!-- 
+<link rel="stylesheet" href="css/styles/forms-simulador.css" type="text/css">
+-->
+
+<!-- <link rel="stylesheet" href="css/styles/datepicker/css/datapicker-theme-combinado-min.css" type="text/css" defer> -->
+<!-- 
+<link rel="stylesheet" href="css/styles/datepicker/css/datepicker.css" type="text/css" >
+<link rel="stylesheet" href="css/styles/datepicker/css/theme.css" type="text/css">
+-->
+<link rel="stylesheet" href="/Bancolombia_Acercade_estatico/themes/Bancolombia_Personas/css/styles/datepicker/css/datepicker-min.css" type="text/css" async="" />
+<link rel="stylesheet" href="/Bancolombia_Acercade_estatico/themes/Bancolombia_Personas/css/styles/datepicker/css/theme-min.css" type="text/css" async="" />
+
+<!-- <link href="http://fonts.googleapis.com/css?family=Arimo:400,700,400italic,700italic" rel="stylesheet" type="text/css" defer async > -->
+	
+
+  
+<script type="text/javascript" src="/Bancolombia_Acercade_estatico/themes/Bancolombia_Personas/js/modules/navegacion.js"></script>
+
+<!--
+<script type="text/javascript" src="/Bancolombia_Acercade_estatico/themes/Bancolombia_Personas/js/modules/navegacion-of.js"></script>
+-->
+<!-- 
+<script type="text/javascript" src="js/modules/navegacion-min.js"></script>
+-->
+
+<script type="text/javascript" src="/Bancolombia_Acercade_estatico/themes/Bancolombia_Personas/js/modules/mobile-detect.js" defer=""></script>
+
+
+<script type="text/javascript" src="/Bancolombia_Acercade_estatico/themes/Bancolombia_Personas/js/modules/slide-min.js" defer=""></script>
+
+<script type="text/javascript" src="/Bancolombia_Acercade_estatico/themes/Bancolombia_Personas/js/modules/modules.js" defer=""></script>
+
+<script type="text/javascript" src="/Bancolombia_Acercade_estatico/themes/Bancolombia_Personas/js/modules/jquery.basictable.min.js" defer=""></script>
+<script type="text/javascript" src="/Bancolombia_Acercade_estatico/themes/Bancolombia_Personas/js/modules/wow.min.js" defer=""></script>
+
+<!--ALLUS InteracciÃ³n virtual con el banco - Botonoes que se presentan en el costado izquierdo v2 -->
+<link rel="stylesheet" type="text/css" href="https://asistencia.webv2.allus.com.co/WebAPI802/Extensiones/Estilos/Bancolombia/WC/chat_style_bootstrap.css" />
+<script type="text/javascript" src="https://asistencia.webv2.allus.com.co/WebAPI802/Extensiones/Funciones/Ayudas/php.js"></script>
+<script type="text/javascript" src="https://asistencia.webv2.allus.com.co/WebAPI802/Extensiones/Funciones/Ayudas/validacion.js"></script>
+<script type="text/javascript" src="https://asistencia.webv2.allus.com.co/WebAPI802/Extensiones/Horario/control_colombia.js"></script>
+<script type="text/javascript" src="https://asistencia.webv2.allus.com.co/WebAPI802/Extensiones/Funciones/WC/Bancolombia/wservices.js"></script>
+<script type="text/javascript" src="https://asistencia.webv2.allus.com.co/WebAPI802/Extensiones/Funciones/WC/Bancolombia/wtemplate.js"></script>
+<script type="text/javascript" src="https://asistencia.webv2.allus.com.co/WebAPI802/Extensiones/Funciones/WC/Bancolombia/wcobrowse.js"></script>
+
+<!--
+<script type="text/javascript" src="/Bancolombia_Acercade_estatico/themes/Bancolombia_Personas/js/modules/modules-of.js" defer></script>
+-->
+
+<!-- <script type="text/javascript" src="js/jquery-1.10.2.min.js"></script> -->
+<!-- 		<script type="text/javascript" src="js/jquery-1.11.2.ui.min.js"></script> -->
+<!-- 		<script type="text/javascript" src="js/angular-1.2.19.js"></script> -->
+<!-- 		<script type="text/javascript" src="js/ui-bootstrap-0.12.0.tpls.min.js"></script> -->
+<!-- 		<script type="text/javascript" src="js/modules/navegacion.js"></script> -->
+
+
+<script type="text/javascript" async="" src="https://asistencia.webv2.allus.com.co/WebAPI802/Extensiones/Funciones/Ayudas/msdropdown/msdropdown.js"></script><link rel="stylesheet" type="text/css" href="https://asistencia.webv2.allus.com.co/WebAPI802/Extensiones/Funciones/Ayudas/msdropdown/msdropdown.css" /><link rel="stylesheet" type="text/css" href="https://asistencia.webv2.allus.com.co/WebAPI802/Extensiones/Funciones/Ayudas/msdropdown/flags.css" /><script type="text/javascript" async="" src="https://asistencia.webv2.allus.com.co/WebAPI802/Extensiones/Funciones/Ayudas/jsencrypt/jsencrypt.min.js"></script><script async="" src="https://script.hotjar.com/modules-f05594485f7797d58b408b352f247d6e.js"></script><style type="text/css">iframe#_hjRemoteVarsFrame {display: none !important; width: 1px !important; height: 1px !important; opacity: 0 !important; pointer-events: none !important;}</style><script src="https://googleads.g.doubleclick.net/pagead/viewthroughconversion/971830635/?random=1546792154713&amp;cv=9&amp;fst=1546792154713&amp;num=1&amp;guid=ON&amp;resp=GooglemKTybQhCsO&amp;eid=659255991&amp;u_h=720&amp;u_w=1280&amp;u_ah=680&amp;u_aw=1280&amp;u_cd=24&amp;u_his=2&amp;u_tz=-300&amp;u_java=false&amp;u_nplug=3&amp;u_nmime=4&amp;gtm=2wgbc0&amp;sendb=1&amp;frm=0&amp;url=https%3A%2F%2Fwww.grupobancolombia.com%2Fwps%2Fportal%2Facerca-de&amp;tiba=Acerca%20De%20Nuestra%20Compa%C3%B1%C3%ADa&amp;async=1&amp;rfmt=3&amp;fmt=4"></script><script type="text/javascript" charset="UTF-8" src="https://maps.googleapis.com/maps-api-v3/api/js/35/7/common.js"></script><script type="text/javascript" charset="UTF-8" src="https://maps.googleapis.com/maps-api-v3/api/js/35/7/util.js"></script><script type="text/javascript" charset="UTF-8" src="https://maps.googleapis.com/maps/api/js/AuthenticationService.Authenticate?1shttps%3A%2F%2Fwww.grupobancolombia.com%2Fwps%2Fportal%2Facerca-de&amp;4sAIzaSyAnnNUOK2edSwKOj0sEILcjO9PB7iI3BaE&amp;callback=_xdc_._c42j4h&amp;key=AIzaSyAnnNUOK2edSwKOj0sEILcjO9PB7iI3BaE&amp;token=90218"></script></head>
+<body onload="loadMenu()" class="gwc-chat-acerca gwc-chat-azul" style="">
+ 
+	
+
+
+<script type="text/javascript">
+      window.dataLayer = window.dataLayer || [];
+</script>
+
+<!-- Google Tag Manager -->
+
+<noscript>&lt;iframe src="//www.googletagmanager.com/ns.html?id=GTM-W95WRK" height="0" width="0" style="display:none;visibility:hidden"&gt;&lt;/iframe&gt;</noscript>
+
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start': new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0], j=d.createElement(s),dl=l!='dataLayer'?'&amp;l='+l:'';j.async=true;j.src='//www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f); })(window,document,'script','dataLayer','GTM-W95WRK');
+</script>
+
+<!-- End Google Tag Manager --><a href="#maincontent" class="sr-only sr-only-focusable">Skip to
+		main content</a>
+	<div id="barra-navegacion" class="navegacion azul">
+		<div class="sidebar visible-xs fade out">
+			<!-- renders the collapsed menu -->
+			<!--MENU COLAPSADO-->
+<div id="collapsedMenuBancolombia" class="contenido" style="display: block;">
+	<div class="cabezote">
+		<a href="//www.grupobancolombia.com/wps/portal/personas/"> <img id="logoFilial" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKoAAABGCAYAAABc8A97AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA3hpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNi1jMTExIDc5LjE1ODMyNSwgMjAxNS8wOS8xMC0wMToxMDoyMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDphYmIyMzYxZi01NjhmLTRkMGQtYWVkZS00ZTU2NWEwZTcyNWIiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6ODJDQTE4MjBCOTEzMTFFNTk0MEJFQ0EyMDNEMzA1N0UiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6ODJDQTE4MUZCOTEzMTFFNTk0MEJFQ0EyMDNEMzA1N0UiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTUgKE1hY2ludG9zaCkiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDpkNWVkMjc0ZS1iMmFkLTRlZWQtOTZlNy02MTRkYzMxZGIyMzciIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6YWJiMjM2MWYtNTY4Zi00ZDBkLWFlZGUtNGU1NjVhMGU3MjVi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" width="170" height="40" alt="" title="" class="BancolombiaLogo" />
+			</a>
+		<div id="close-sidebar" class="close"></div>
+	</div>
+	<div class="listado">
+		<ul>
+			<li class="amarillo">
+				<h2 class="expandible ">Personas</h2>
+				<ul style="display: none;">
+					<li class="transacciones"><a href="/wps/portal/personas/transacciones/">
+							<h3> Transacciones</h3>
+					</a></li>
+					<li class="bancolombiaClic">
+						<a href="//www.grupobancolombia.com/wps/portal/personas/solicitud-de-productos-wcm">
+							<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABsAAAAdCAYAAABbjRdIAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA5BJREFUeNqsVl1IU2EYfuemaemaA7MLhdkkkCSPRN10sUnDKchygdRVzquoLqZZRBfhLAwkxvSmops5g8guarsoaBRuRSoUciylAqeGFf7hX7Ola633+zb1nLMfz9IXvo9zvr/ne96/75VAKqKzqrAnTcsZZWl72Tyx1XaJSBAT9mZsTJJVBMyBrQOBF1MH01kJA3uUjVghQE0I2CWcSEsCZMG+N0UgIgp6QZ3VLo6ZzmrDvhG2L13IsGH9RxoHqJbqfWeEgQN6CYy5PbHMdFaigvGoKjb1kr0LtIcLgSnOgzJ1Hiz6V+nYkG+Gt12Daxpuv4CJ6WUhaDkyZGWCwUYhkO08+ogkDN6hSehyD+NBSwlpqPL3gvnUEWi66xFOtWAzCsHMMQfsl4PR4hSlM3IRBpkT1oQ9R2pJjMoEtlLE+HFUZeubGfU+2lS586ApCYFC+hkYVUZkcQDjWzoCT683Q8VVt/CoWhnPmHHkK+rffrkawO8BrdqHt3lGv3kyxf/VFpahSuVC22m4YGXcGVPlIbCdRapr9wGWUI17MFb9In1wwQEm/R2wdPfz/EwmCMZNxyBAU1XinTxbC3/n8iA0kwGyY+eAHZ2NWSJLaOx5ZeJEmKGihwfZIAQ/ZsOfsUwI9r+H8PIXOr370giwPllSMF7W9nySAlOCh65Fh7MQOrceAj3fYe31PD08kaw+doH5SltMCHDBhrgTrj4fNJ6wUTB27jg4Xq1APdqxoF23pUZD335QjxUqiwtGr6HICkR+MIiLLsqJMdCr3mwsar+BMZ4+Bv6OAghNZ/ATrTwHMusMMF1jgNYH/UIwLy9dKQ03x33XbtEs7xwppbHU6taDx6eOeOjRd2A//Yh+/3qYTxs1ob4CfldXwfOcQuh8Moj2mo337BTxwMZ7lRYEaOFxX1CCIjOAoJXQUummzMMrUvh5rwbSNXUwcLAcugcmwdk3KswaXGnF3GjhgYVZmoS3fL9Y/wVwfKgD59vReEk3Livyess4QCYxQIRpeRtR66DYCDSulwncl7pezM4m18lU3rMGBPLwygJkxQgqprhCHMU5XCq2DjEK65C0jSdAzDV7zogrBSKPpVN0uopnK5vBRb3R6ysGC3qnoHYk6upMVj9KUvFCrpokDOSmWpCkbcRBRM9ixfM/1Y+E4/rkiSElnCmBwYkNvAQIWU1sC4wDqo3WIt6oLYjK2J2o6/4JMADacztHPjOuggAAAABJRU5ErkJggg==" />
+							<h3>Solicitud de productos</h3>
+						</a>
+					</li>
+					<li>
+						<h3 class="expandible ">
+							Necesidades
+							<li class="pull-right glyphicon glyphicon-plus"></li>
+						</h3>
+						<ul style="display: none;">
+							<li>
+								<h4>
+									<span>Necesidades</span>
+								</h4>
+								<ul>
+									<li><a href="/wps/portal/personas/necesidades/administrar-tu-dinero/">
+											<h5>
+												<span>Administra tu dinero</span>
+											</h5>
+									</a></li>
+									<li><a href="/wps/portal/personas/necesidades/estudiar/">
+											<h5>
+												<span>Estudio</span>
+											</h5>
+									</a></li>
+									<li><a href="/wps/portal/personas/necesidades/vacaciones/">
+											<h5>
+												<span>Vacaciones</span>
+											</h5>
+									</a></li>
+									<li><a href="/wps/portal/personas/necesidades/carro-moto/">
+											<h5>
+												<span>Carro o moto</span>
+											</h5>
+									</a></li>
+									<li><a href="/wps/portal/personas/necesidades/casa/">
+											<h5>
+												<span>Casa</span>
+											</h5>
+									</a></li>
+									<li><a href="/wps/portal/personas/necesidades/comprar-lo-que-te-gusta/">
+											<h5>
+												<span>Compra lo que te gusta</span>
+											</h5>
+									</a></li>
+									<li><a href="/wps/portal/empresas/necesidades/empiece-un-negocio">
+											<h5>
+												<span>Empieza tu negocio</span>
+											</h5>
+									</a></li>
+									<li><a href="/wps/portal/personas/necesidades/unificacion-creditos/">
+											<h5>
+												<span>Organiza tus créditos</span>
+											</h5>
+									</a></li>
+									<li><a href="/wps/portal/personas/necesidades/planea-retiro/">
+											<h5>
+												<span>Planea tu retiro laboral</span>
+											</h5>
+									</a></li>
+									<li><a href="/wps/portal/personas/necesidades/documentos/">
+											<h5>
+												<span>Solicitud de documentos</span>
+											</h5>
+									</a></li>
+								</ul>
+							</li>
+							<li>
+								<h4>
+									<span>Momentos de vida</span>
+								</h4>
+								<ul>
+									<li><a href="/wps/portal/personas/necesidades/ninos-bancolombia/">
+											<h5>
+												<span>Bancolombia y los niños</span>
+											</h5>
+									</a></li>
+									<li><a href="/wps/portal/personas/necesidades/jovenes-bancolombia/">
+											<h5>
+												<span>Bancolombia y los jóvenes</span>
+											</h5>
+									</a></li>
+									<li><a href="/wps/portal/personas/necesidades/familia-bancolombia/">
+											<h5>
+												<span>Bancolombia y tu familia</span>
+											</h5>
+									</a></li>
+									<li><a href="/wps/portal/personas/necesidades/colombianos-exterior/">
+											<h5>
+												<span>Colombianos en el exterior</span>
+											</h5>
+									</a></li>
+									<li><a href="/wps/portal/personas/necesidades/documentos/referencias-bancarias/">
+											<h5>
+												<span>Certificaciones Bancarias</span>
+											</h5>
+									</a></li>
+								</ul>
+							</li>
+							<li>
+								<h4>
+									<span>Reconocimientos para ti</span>
+								</h4>
+								<ul>
+									<li><a href="/wps/portal/personas/necesidades/mas-beneficios/">
+											<h5>
+												<span>Reconocimientos para ti</span>
+											</h5>
+									</a></li>
+								</ul>
+							</li>
+							<li>
+								<h4>
+									<span>Atención preferencial</span>
+								</h4>
+								<ul>
+									<li><a href="/wps/portal/personas/necesidades/modelo-atencion-preferencial/">
+											<h5>
+												<span>Atención preferencial</span>
+											</h5>
+									</a></li>
+								</ul>
+							</li>
+						</ul>
+					</li>
+					<li>
+						<h3 class="expandible">
+							Productos y Servicios
+							<li class="pull-right glyphicon glyphicon-plus"></li>
+						</h3>
+						<ul style="display: none;">
+							<li>
+								<h4>
+									<span>Productos y Servicios</span>
+								</h4>
+								<ul>
+									<li><a href="/wps/portal/personas/productos-servicios/cuentas">
+											<h5>
+												<span>Cuentas</span>
+											</h5>
+									</a></li>
+									<li><a href="/wps/portal/personas/productos-servicios/tarjetas-debito/">
+											<h5>
+												<span>Tarjetas Débito</span>
+											</h5>
+									</a></li>
+									<li><a href="/wps/portal/personas/productos-servicios/tarjetas-credito">
+											<h5>
+												<span>Tarjetas Crédito</span>
+											</h5>
+									</a></li>
+									<li><a href="/wps/portal/personas/productos-servicios/creditos">
+											<h5>
+												<span>Créditos</span>
+											</h5>
+									</a></li>
+									<li><a href="/wps/portal/personas/productos-servicios/leasing/">
+											<h5>
+												<span>Leasing</span>
+											</h5>
+									</a></li>
+									<li><a href="/wps/portal/personas/productos-servicios/seguros">
+											<h5>
+												<span>Seguros y asistencias</span>
+											</h5>
+									</a></li>
+									<li><a href="/wps/portal/personas/productos-servicios/inversiones">
+											<h5>
+												<span>Inversiones</span>
+											</h5>
+									</a></li>
+									<li><a href="/wps/portal/personas/productos-servicios/giros/">
+											<h5>
+												<span>Giros</span>
+											</h5>
+									</a></li>
+									<li><a href="/wps/portal/personas/productos-servicios/pagos/">
+											<h5>
+												<span>Servicios de pago</span>
+											</h5>
+									</a></li>
+									<li><a href="/wps/portal/personas/productos-servicios/compra-venta-dolares-efectivo/">
+											<h5>
+												<span>Compra y venta de dólares</span>
+											</h5>
+									</a></li>
+									<li><a href="/wps/portal/personas/productos-servicios/venta-usados/">
+											<h5>
+												<span>Venta de usados</span>
+											</h5>
+									</a></li>
+									<li><a href="http://www.localizacolombia.com.co/" target="_blank">
+											<h5>
+												<span>Renta de vehículos</span>
+											</h5>
+									</a></li>
+									<li><a href="/wps/portal/personas/productos-servicios/canales-servicio/">
+											<h5>
+												<span>Conoce nuestros canales</span>
+											</h5>
+									</a></li>
+									<li><a href="/wps/portal/personas/productos-servicios/canales-servicio/sucursal-web/sucursal-virtual-personas/">
+											<h5>
+												<span>Sucursal Virtual Personas</span>
+											</h5>
+									</a></li>
+									<li><a href="//www.grupobancolombia.com/wps/portal/personas/solicitud-de-productos-wcm">
+											<h5>
+												<span>Solicitud de productos</span>
+											</h5>
+									</a></li>
+									<li><a href="/wps/portal/personas/productos-servicios/canales-servicio/movil/bancolombia-app/">
+											<h5>
+												<span>Bancolombia App</span>
+											</h5>
+									</a></li>
+									<li><a href="/wps/portal/personas/productos-servicios/canales-servicio/fisico/corresponsal-bancario/">
+											<h5>
+												<span>Corresponsal Bancario</span>
+											</h5>
+									</a></li>
+									<li><a href="/wps/portal/personas/productos-servicios/canales-servicio/telefonico/">
+											<h5>
+												<span>Sucursal Telefónica</span>
+											</h5>
+									</a></li>
+									<li><a href="/wps/portal/personas/productos-servicios/canales-servicio/sucursal-web/multipagos-pse/">
+											<h5>
+												<span>Multipagos PSE</span>
+											</h5>
+									</a></li>
+									<li><a href="/wps/portal/personas/productos-servicios/canales-servicio/fisico/sucursal-fisica/">
+											<h5>
+												<span>Sucursal Física</span>
+											</h5>
+									</a></li>
+								</ul>
+							</li>
+						</ul>
+					</li>
+					<li><a href="/wps/portal/personas/aprender-es-facil/">
+							<h3>Aprender es fácil</h3>
+					</a></li>
+				</ul>
+			</li>
+			<li class="gris">
+			<a href="//www.grupobancolombia.com/wps/portal/negocios-pymes/">
+				<h2 class="expandible">Pymes</h2>
+			</a>	
+			</li>
+			<li class="gris">
+				<h2 class="expandible">Empresas</h2>
+				<ul style="display: none;">
+					<li class="transacciones"><a href="/wps/portal/empresas/transacciones/">
+							<h3> Transacciones</h3>
+					</a></li>
+					<li class="bancolombiaClic">
+						<a href="//www.grupobancolombia.com/wps/portal/empresas/necesidades/documentos/">
+							<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABsAAAAdCAYAAABbjRdIAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA5BJREFUeNqsVl1IU2EYfuemaemaA7MLhdkkkCSPRN10sUnDKchygdRVzquoLqZZRBfhLAwkxvSmops5g8guarsoaBRuRSoUciylAqeGFf7hX7Ola633+zb1nLMfz9IXvo9zvr/ne96/75VAKqKzqrAnTcsZZWl72Tyx1XaJSBAT9mZsTJJVBMyBrQOBF1MH01kJA3uUjVghQE0I2CWcSEsCZMG+N0UgIgp6QZ3VLo6ZzmrDvhG2L13IsGH9RxoHqJbqfWeEgQN6CYy5PbHMdFaigvGoKjb1kr0LtIcLgSnOgzJ1Hiz6V+nYkG+Gt12Daxpuv4CJ6WUhaDkyZGWCwUYhkO08+ogkDN6hSehyD+NBSwlpqPL3gvnUEWi66xFOtWAzCsHMMQfsl4PR4hSlM3IRBpkT1oQ9R2pJjMoEtlLE+HFUZeubGfU+2lS586ApCYFC+hkYVUZkcQDjWzoCT683Q8VVt/CoWhnPmHHkK+rffrkawO8BrdqHt3lGv3kyxf/VFpahSuVC22m4YGXcGVPlIbCdRapr9wGWUI17MFb9In1wwQEm/R2wdPfz/EwmCMZNxyBAU1XinTxbC3/n8iA0kwGyY+eAHZ2NWSJLaOx5ZeJEmKGihwfZIAQ/ZsOfsUwI9r+H8PIXOr370giwPllSMF7W9nySAlOCh65Fh7MQOrceAj3fYe31PD08kaw+doH5SltMCHDBhrgTrj4fNJ6wUTB27jg4Xq1APdqxoF23pUZD335QjxUqiwtGr6HICkR+MIiLLsqJMdCr3mwsar+BMZ4+Bv6OAghNZ/ATrTwHMusMMF1jgNYH/UIwLy9dKQ03x33XbtEs7xwppbHU6taDx6eOeOjRd2A//Yh+/3qYTxs1ob4CfldXwfOcQuh8Moj2mo337BTxwMZ7lRYEaOFxX1CCIjOAoJXQUummzMMrUvh5rwbSNXUwcLAcugcmwdk3KswaXGnF3GjhgYVZmoS3fL9Y/wVwfKgD59vReEk3Livyess4QCYxQIRpeRtR66DYCDSulwncl7pezM4m18lU3rMGBPLwygJkxQgqprhCHMU5XCq2DjEK65C0jSdAzDV7zogrBSKPpVN0uopnK5vBRb3R6ysGC3qnoHYk6upMVj9KUvFCrpokDOSmWpCkbcRBRM9ixfM/1Y+E4/rkiSElnCmBwYkNvAQIWU1sC4wDqo3WIt6oLYjK2J2o6/4JMADacztHPjOuggAAAABJRU5ErkJggg==" />
+							<h3>Solicitud de documentos</h3>
+						</a>
+					</li>
+					<li><a href="/wps/portal/empresas/necesidades/empiece-un-negocio/">
+							<h3>Empieza tu negocio</h3>
+					</a></li>
+					<li>
+						<h3 class="expandible">
+							Necesidades PYMEs
+							<li class="pull-right glyphicon glyphicon-plus"></li>
+						</h3>
+						<ul style="display: none;">
+							<li>
+								<h4>
+									<span>Necesidades</span>
+								</h4>
+								<ul>
+									<li><a href="/wps/portal/empresas/necesidades/pymes/soluciones-financiacion/">
+											<h5>
+												<span>Soluciones de financiación</span>
+											</h5>
+									</a></li>
+									<li><a href="/wps/portal/empresas/necesidades/pymes/pagar-recaudar/">
+											<h5>
+												<span>Pagar y recaudar</span>
+											</h5>
+									</a></li>
+									<li><a href="/wps/portal/empresas/necesidades/pymes/inversion-liquidez/">
+											<h5>
+												<span>Inversión de liquidez</span>
+											</h5>
+									</a></li>
+									<li><a href="/wps/portal/empresas/necesidades/pymes/comercio-internacional/">
+											<h5>
+												<span>Comercio internacional</span>
+											</h5>
+									</a></li>
+									<li><a href="/wps/portal/empresas/necesidades/pymes/cobertura-riesgos/">
+											<h5>
+												<span>Cobertura de riesgos</span>
+											</h5>
+									</a></li>
+									<li><a href="/wps/portal/empresas/necesidades/pymes/estructuracion-negocios/">
+											<h5>
+												<span>Estructuración de negocios</span>
+											</h5>
+									</a></li>
+									<li><a href="/wps/portal/empresas/necesidades/documentos/">
+											<h5>
+												<span>Solicitud de documentos</span>
+											</h5>
+									</a></li>
+								</ul>
+							</li>
+							<li>
+								<h4>
+									<span>Sectores</span>
+								</h4>
+								<ul>
+									<li><a href="/wps/portal/empresas/necesidades/pymes/sectores/agroindustria/">
+											<h5>
+												<span>Agroindustrias</span>
+											</h5>
+									</a></li>
+									<li><a href="/wps/portal/empresas/necesidades/pymes/sectores/contratistas/">
+											<h5>
+												<span>Contratistas</span>
+											</h5>
+									</a></li>
+									<li><a href="/wps/portal/empresas/necesidades/pymes/sectores/comercio/">
+											<h5>
+												<span>Comercio</span>
+											</h5>
+									</a></li>
+									<li><a href="/wps/portal/empresas/necesidades/pymes/sectores/colegios-universidades/">
+											<h5>
+												<span>Colegios y universidades</span>
+											</h5>
+									</a></li>
+								</ul>
+							</li>
+							<li>
+								<h4>
+									<span>Beneficios para tu negocio y tus empleados</span>
+								</h4>
+								<ul>
+									<li><a href="/wps/portal/empresas/necesidades/pymes/beneficios-negocio-empleados/">
+											<h5>
+												<span>Beneficios para tu negocio y tus empleados</span>
+											</h5>
+									</a></li>
+								</ul>
+							</li>
+						</ul>
+					</li>
+					<li>
+						<h3 class="expandible">
+							Necesidades Empresas
+							<li class="pull-right glyphicon glyphicon-plus"></li>
+						</h3>
+						<ul style="display: none;">
+							<li>
+								<h4>
+									<span>Necesidades Empresas</span>
+								</h4>
+								<ul>
+									<li><a href="/wps/portal/empresas/necesidades/empresas/soluciones-financiacion/">
+											<h5>
+												<span>Soluciones de financiación</span>
+											</h5>
+									</a></li>
+									<li><a href="/wps/portal/empresas/necesidades/empresas/administrar-liquidez/">
+											<h5>
+												<span>Administración de liquidez</span>
+											</h5>
+									</a></li>
+									<li><a href="/wps/portal/empresas/necesidades/empresas/gestion-tesoreria/">
+											<h5>
+												<span>Gestión de tesorería</span>
+											</h5>
+									</a></li>
+									<li><a href="/wps/portal/empresas/necesidades/empresas/cobertura-riesgos/">
+											<h5>
+												<span>Cobertura de riesgos</span>
+											</h5>
+									</a></li>
+									<li><a href="/wps/portal/empresas/necesidades/empresas/estructuracion-negocios/">
+											<h5>
+												<span>Estructuración de negocios</span>
+											</h5>
+									</a></li>
+									<li><a href="/wps/portal/empresas/necesidades/empresas/bienestar-empleados-proveedores-accionistas/">
+											<h5>
+												<span>Bienestar para tus empleados</span>
+											</h5>
+									</a></li>
+									<li><a href="/wps/portal/empresas/necesidades/documentos/">
+											<h5>
+												<span>Solicitud de documentos</span>
+											</h5>
+									</a></li>
+									<li><a href="/wps/portal/empresas/necesidades/empresas/experiencia-sectorial/">
+											<h5>
+												<span>Experiencia sectorial</span>
+											</h5>
+									</a></li>
+								</ul>
+							</li>
+						</ul>
+					</li>
+					<li>
+						<h3 class="expandible">
+							Necesidades Gobierno
+							<li class="pull-right glyphicon glyphicon-plus"></li>
+						</h3>
+						<ul style="display: none;">
+							<li>
+								<h4>
+									<span>Necesidades Gobierno</span>
+								</h4>
+								<ul>
+									<li><a href="/wps/portal/empresas/necesidades/gobierno/soluciones-financiacion/">
+											<h5>
+												<span>Soluciones de financiación</span>
+											</h5>
+									</a></li>
+									<li><a href="/wps/portal/empresas/necesidades/gobierno/administrar-liquidez/">
+											<h5>
+												<span>Administración de liquidez</span>
+											</h5>
+									</a></li>
+									<li><a href="/wps/portal/empresas/necesidades/gobierno/gestion-tesoreria/">
+											<h5>
+												<span>Gestión de tesorería</span>
+											</h5>
+									</a></li>
+									<li><a href="/wps/portal/empresas/necesidades/gobierno/cobertura-riesgos/">
+											<h5>
+												<span>Cobertura de riesgos</span>
+											</h5>
+									</a></li>
+									<li><a href="/wps/portal/empresas/necesidades/gobierno/estructuracion-negocios/">
+											<h5>
+												<span>Estructuración de negocios</span>
+											</h5>
+									</a></li>
+									<li><a href="/wps/portal/empresas/necesidades/gobierno/bienestar-empleados-proveedores-accionistas/">
+											<h5>
+												<span>Bienestar para mis empleados</span>
+											</h5>
+									</a></li>
+									<li><a href="/wps/portal/empresas/necesidades/documentos/">
+											<h5>
+												<span>Solicitud de documentos</span>
+											</h5>
+									</a></li>
+									<li><a href="/wps/portal/empresas/necesidades/empresas/experiencia-sectorial/">
+											<h5>
+												<span>Experiencia sectorial</span>
+											</h5>
+									</a></li>
+								</ul>
+							</li>
+						</ul>
+					</li>
+					<li>
+						<h3 class="expandible">
+							Productos y Servicios
+							<li class="pull-right glyphicon glyphicon-plus"></li>
+						</h3>
+						<ul style="display: none;">
+							<li>
+								<h4>
+									<span>Productos y Servicios</span>
+								</h4>
+								<ul>
+									<li><a href="/wps/portal/empresas/productos-servicios/creditos/">
+											<h5>
+												<span>Créditos</span>
+											</h5>
+									</a></li>
+									<li><a href="/wps/portal/empresas/productos-servicios/tarjetas-credito/">
+											<h5>
+												<span>Tarjetas de Crédito</span>
+											</h5>
+									</a></li>
+									<li><a href="/wps/portal/empresas/productos-servicios/inversiones/">
+											<h5>
+												<span>Inversiones</span>
+											</h5>
+									</a></li>
+									<li><a href="/wps/portal/empresas/productos-servicios/cuentas-depositos/">
+											<h5>
+												<span>Cuentas de Depósito</span>
+											</h5>
+									</a></li>
+									<li><a href="/wps/portal/empresas/productos-servicios/cash-management/">
+											<h5>
+												<span>Cash Management</span>
+											</h5>
+									</a></li>
+									<li><a href="/wps/portal/empresas/productos-servicios/derivados/">
+											<h5>
+												<span>Derivados</span>
+											</h5>
+									</a></li>
+									<li><a href="/wps/portal/empresas/productos-servicios/seguros/">
+											<h5>
+												<span>Seguros</span>
+											</h5>
+									</a></li>
+									<li><a href="/wps/portal/empresas/productos-servicios/negocios-fiduciarios/">
+											<h5>
+												<span>Negocios Fiduciarios</span>
+											</h5>
+									</a></li>
+									<li><a href="/wps/portal/empresas/productos-servicios/banca-inversion/">
+											<h5>
+												<span>Banca de Inversión</span>
+											</h5>
+									</a></li>
+									<li><a href="/wps/portal/empresas/productos-servicios/leasing/">
+											<h5>
+												<span>Leasing</span>
+											</h5>
+									</a></li>
+									<li><a href="/wps/portal/empresas/productos-servicios/factoring/">
+											<h5>
+												<span>Factoring</span>
+											</h5>
+									</a></li>
+									<li><a href="/wps/portal/empresas/productos-servicios/renting/">
+											<h5>
+												<span>Renting</span>
+											</h5>
+									</a></li>
+									<li><a href="/wps/portal/empresas/productos-servicios/operaciones-moneda-extranjera/">
+											<h5>
+												<span>Operaciones en Moneda Extranjera</span>
+											</h5>
+									</a></li>
+									<li><a href="/wps/portal/empresas/productos-servicios/como-ser-corresponsal-bancario/">
+											<h5>
+												<span>Ser Corresponsal Bancario</span>
+											</h5>
+									</a></li>
+									<li><a href="/wps/portal/empresas/productos-servicios/canales-servicio/">
+											<h5>
+												<span>Conoce nuestros canales y administra tus
+													productos en forma ágil y segura.</span>
+											</h5>
+									</a></li>
+									<li><a href="/wps/portal/empresas/productos-servicios/canales-servicio/sucursal-web/sucursal-virtual-empresas/">
+											<h5>
+												<span>Sucursal Virtual Empresas</span>
+											</h5>
+									</a></li>
+									<li><a href="/wps/portal/empresas/productos-servicios/canales-servicio/sucursal-telefonica/linea-empresas/">
+											<h5>
+												<span>Línea Empresas</span>
+											</h5>
+									</a></li>
+								</ul>
+							</li>
+						</ul>
+					</li>
+					<li><a href="/wps/portal/empresas/capital-inteligente/">
+							<h3>Capital Inteligente</h3>
+					</a></li>
+				</ul>
+			</li>
+			<li class="azul">
+				<h2 class="expandible">Acerca de Nosotros</h2>
+				<ul style="display: none;">
+					<li class="bancolombiaClic">
+						<a href="//www.grupobancolombia.com/wps/portal/personas/solicitud-de-productos-wcm">
+							<img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABsAAAAdCAYAAABbjRdIAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA5BJREFUeNqsVl1IU2EYfuemaemaA7MLhdkkkCSPRN10sUnDKchygdRVzquoLqZZRBfhLAwkxvSmops5g8guarsoaBRuRSoUciylAqeGFf7hX7Ola633+zb1nLMfz9IXvo9zvr/ne96/75VAKqKzqrAnTcsZZWl72Tyx1XaJSBAT9mZsTJJVBMyBrQOBF1MH01kJA3uUjVghQE0I2CWcSEsCZMG+N0UgIgp6QZ3VLo6ZzmrDvhG2L13IsGH9RxoHqJbqfWeEgQN6CYy5PbHMdFaigvGoKjb1kr0LtIcLgSnOgzJ1Hiz6V+nYkG+Gt12Daxpuv4CJ6WUhaDkyZGWCwUYhkO08+ogkDN6hSehyD+NBSwlpqPL3gvnUEWi66xFOtWAzCsHMMQfsl4PR4hSlM3IRBpkT1oQ9R2pJjMoEtlLE+HFUZeubGfU+2lS586ApCYFC+hkYVUZkcQDjWzoCT683Q8VVt/CoWhnPmHHkK+rffrkawO8BrdqHt3lGv3kyxf/VFpahSuVC22m4YGXcGVPlIbCdRapr9wGWUI17MFb9In1wwQEm/R2wdPfz/EwmCMZNxyBAU1XinTxbC3/n8iA0kwGyY+eAHZ2NWSJLaOx5ZeJEmKGihwfZIAQ/ZsOfsUwI9r+H8PIXOr370giwPllSMF7W9nySAlOCh65Fh7MQOrceAj3fYe31PD08kaw+doH5SltMCHDBhrgTrj4fNJ6wUTB27jg4Xq1APdqxoF23pUZD335QjxUqiwtGr6HICkR+MIiLLsqJMdCr3mwsar+BMZ4+Bv6OAghNZ/ATrTwHMusMMF1jgNYH/UIwLy9dKQ03x33XbtEs7xwppbHU6taDx6eOeOjRd2A//Yh+/3qYTxs1ob4CfldXwfOcQuh8Moj2mo337BTxwMZ7lRYEaOFxX1CCIjOAoJXQUummzMMrUvh5rwbSNXUwcLAcugcmwdk3KswaXGnF3GjhgYVZmoS3fL9Y/wVwfKgD59vReEk3Livyess4QCYxQIRpeRtR66DYCDSulwncl7pezM4m18lU3rMGBPLwygJkxQgqprhCHMU5XCq2DjEK65C0jSdAzDV7zogrBSKPpVN0uopnK5vBRb3R6ysGC3qnoHYk6upMVj9KUvFCrpokDOSmWpCkbcRBRM9ixfM/1Y+E4/rkiSElnCmBwYkNvAQIWU1sC4wDqo3WIt6oLYjK2J2o6/4JMADacztHPjOuggAAAABJRU5ErkJggg==" />
+							<h3>Solicitud de productos</h3>
+						</a>
+					</li>
+					<li><a href="/wps/portal/acerca-de/negocios-especializados/">
+							<h3>Negocios Especializados</h3>
+					</a></li>
+					<li>
+						<h3 class="expandible">
+							Información corporativa
+							<li class="pull-right glyphicon glyphicon-plus"></li>
+						</h3>
+						<ul style="display: none;">
+							<li>
+								<h4>
+									<span>Información corporativa</span>
+								</h4>
+								<ul>
+									<li><a href="/wps/portal/acerca-de/informacion-corporativa/quienes-somos/">
+											<h5>
+												<span>Quiénes Somos</span>
+											</h5>
+									</a></li>
+									<li><a href="/wps/portal/acerca-de/informacion-corporativa/gobierno-corporativo/">
+											<h5>
+												<span>Gobierno Corporativo</span>
+											</h5>
+									</a></li>
+									<li><a href="/wps/portal/acerca-de/informacion-corporativa/proveedores/">
+											<h5>
+												<span>Proveedores</span>
+											</h5>
+									</a></li>
+									<li><a href="/wps/portal/acerca-de/informacion-corporativa/sostenibilidad/">
+											<h5>
+												<span>Sostenibilidad</span>
+											</h5>
+									</a></li>
+									<li><a href="/wps/portal/acerca-de/informacion-corporativa/relacion-inversionistas/">
+											<h5>
+												<span>Relación con Inversionistas</span>
+											</h5>
+									</a></li>
+									<li><a href="/wps/portal/acerca-de/informacion-corporativa/trabaja-con-nosotros/">
+											<h5>
+												<span>Trabaje con Nosotros</span>
+											</h5>
+									</a></li>
+									<li><a href="/wps/portal/acerca-de/informacion-corporativa/fundacion-bancolombia/">
+											<h5>
+												<span>Fundación Bancolombia</span>
+											</h5>
+									</a></li>
+									<li><a href="/wps/portal/acerca-de/informacion-corporativa/historias-que-transforman/">
+											<h5>
+												<span>Historias que transforman</span>
+											</h5>
+									</a></li>
+								</ul>
+							</li>
+						</ul>
+					</li>
+					<li><a href="/wps/portal/acerca-de/sala-prensa/">
+							<h3>Sala de Prensa</h3>
+					</a></li>
+					<li><a href="/wps/portal/about-us/">
+							<h3>About us</h3>
+					</a></li>
+				</ul>
+			</li>
+			<li class="azul">
+				<h2 class="expandible">Negocios Especializados</h2>
+				<ul style="display: none;">
+					<li>
+						<h3 class="expandible">
+							Negocios Especializados
+							<li class="pull-right glyphicon glyphicon-plus"></li>
+						</h3>
+						<ul style="display: none;">
+							<li>
+								<h4>
+									<span>Grupo Bancolombia</span>
+								</h4>
+								<ul>
+										<li><a href="//www.grupobancolombia.com/wps/portal/personas/">
+												<h5><span>Personas</span></h5>
+										</a></li>
+										<li><a href="//www.grupobancolombia.com/wps/portal/empresas/">
+												<h5><span>Empresas</span></h5>
+										</a></li>
+										<li><a href="//www.grupobancolombia.com/wps/portal/acerca-de/">
+												<h5><span>Acerca de Nosotros</span></h5>
+										</a></li>
+								</ul>
+							</li>	
+							<li>
+								<h4>
+									<span>Negocios en Colombia</span>
+								</h4>
+								<ul>
+									<li><a href="//bancainversion.grupobancolombia.com">
+											<h5><span>Banca de Inversión Bancolombia</span></h5>
+									</a></li>
+									<li><a href="//fiduciaria.grupobancolombia.com">
+											<h5><span>Fiduciaria Bancolombia</span></h5>
+									</a></li>
+									<li><a href="//leasing.grupobancolombia.com">
+											<h5><span>Leasing Bancolombia</span></h5>
+									</a></li>
+									<li><a href="//renting.grupobancolombia.com">
+											<h5><span>Renting Colombia</span></h5>
+									</a></li>
+									<li><a href="//valores.grupobancolombia.com">
+											<h5><span>Valores Bancolombia</span></h5>
+									</a></li>
+									<li><a href="//factoring.grupobancolombia.com">
+											<h5><span>Factoring Bancolombia</span></h5>
+									</a></li>
+									<li><a href="//assetmanagement.grupobancolombia.com">
+											<h5><span>Bancolombia Asset Management</span></h5>
+									</a></li>
+									<li>
+										<a href="//comerciointernacional.grupobancolombia.com">
+											<h5><span>Comercio Internacional</span></h5>
+										</a>
+									</li>
+									<li><a href="//sufi.grupobancolombia.com" target="_blank">
+											<h5><span>Sufi</span></h5>
+									</a></li>
+									<li><a href="http://www.tuya.com.co" target="_blank">
+											<h5><span>Tuya</span></h5>
+									</a></li>
+								</ul>
+							</li>
+							<li>
+								<h4>
+									<span>Entidades del exterior</span>
+								</h4>
+								<ul>
+									<li><a href="//valoresbanistmo.grupobancolombia.com">
+											<h5><span>Valores Banistmo</span></h5>
+									</a></li>
+									<li><a href="//fiduperu.grupobancolombia.com">
+											<h5><span>Fidu Perú</span></h5>
+									</a></li>
+									<!--li><a href="//leasingperu.grupobancolombia.com">
+											<h5><span>Leasing Perú</span></h5>
+									</a></li-->
+									<li><a href="//rentingperu.grupobancolombia.com">
+											<h5><span>Renting Perú</span></h5>
+									</a></li>
+									<li><a href="//sucursalpanama.grupobancolombia.com">
+											<h5><span>Sucursal Panamá</span></h5>
+									</a></li>
+									<li><a href="//panama.grupobancolombia.com">
+											<h5><span>Bancolombia Panamá</span></h5>
+									</a></li>
+									<li><a href="//cayman.grupobancolombia.com/">
+											<h5><span>Bancolombia Cayman</span></h5>
+									</a></li>
+									<li><a href="//puertorico.grupobancolombia.com">
+											<h5><span>Bancolombia Puerto Rico</span></h5>
+									</a></li>
+									<li><a href="https://www.banistmo.com/wps/portal/banistmo/personas" target="_blank">
+											<h5><span>Banistmo</span></h5>
+									</a></li>
+									<li><a href="https://www.bancoagricola.com" target="_blank">
+											<h5><span>Banco Agrícola</span></h5>
+									</a></li>
+									<li><a href="http://www.bam.com.gt" target="_blank">
+											<h5><span>BAM (Banco Agromercantil de Guatemala)</span></h5>
+									</a></li>
+								</ul>
+							</li>
+							<li>
+								<h4><span>Plataformas regionales</span></h4>
+								<ul>
+								  <li>
+									<a href="//treasurykey.grupobancolombia.com/wps/portal/treasurykey/">
+									  <h5><span>TreasuryKey</span></h5>
+									</a>
+								  </li>
+								</ul>
+							</li>
+						</ul>
+					</li>
+				</ul>
+			</li>
+		</ul>
+		<div class="redes">
+			<ul class="networks" dir="ltr">
+				<li class="facebook"><a target="_blank" title="Facebook" href="https://www.facebook.com/bancolombia">Facebook</a></li>
+				<li class="twitter"><a target="_blank" title="Twitter" href="https://twitter.com/Bancolombia">Twitter</a></li>
+				<li class="linkedin"><a target="_blank" title="Linkedin" href="https://www.linkedin.com/company/22690">Linkedin</a></li>
+				<li class="instagram"><a target="_blank" title="Instagram" href="https://instagram.com/bancolombia/">Instagram</a></li>
+				<li class="youtube"><a target="_blank" title="YouTube" href="https://www.youtube.com/user/GrupoBancolombia">YouTube</a></li>
+			</ul>
+		</div>
+	</div>
+</div>
+
+<div id="collapsedMenuBancolombiaAboutUs" class="contenido" style="display: none;">
+	<div class="cabezote">
+		<a href="//www.grupobancolombia.com/wps/portal/about-us/"> <img id="logoFilial" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKoAAABGCAYAAABc8A97AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyhpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNi1jMDY3IDc5LjE1Nzc0NywgMjAxNS8wMy8zMC0yMzo0MDo0MiAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTUgKE1hY2ludG9zaCkiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6NUM1MEU0NjI4MThFMTFFNUIxQjk4QTAxQjRDOThFOTYiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6NUM1MEU0NjM4MThFMTFFNUIxQjk4QTAxQjRDOThFOTYiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDo1QzUwRTQ2MDgxOEUxMUU1QjFCOThBMDFCNEM5OEU5NiIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDo1QzUwRTQ2MTgxOEUxMUU1QjFCOThBMDFCNEM5OEU5NiIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/Pj2UBf8AAA0ASURBVHja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" width="170" height="40" alt="" title="" class="BancolombiaLogo" /></a>
+		<div id="close-sidebar" class="close"></div>
+	</div>
+	<div class="listado">
+		<ul>
+			<li class="azul">
+				<h2 class="expandible">About us</h2>
+				<ul style="display: none;">
+					<li>
+						<h3 class="expandible">
+							Special Business Lines
+							<li class="pull-right glyphicon glyphicon-plus"></li>
+						</h3>
+						<ul style="display: none;">
+							<li>
+								<h4>
+									<span>Special Business Lines</span>
+								</h4>
+								<ul>
+									<li><a href="//assetmanagement.grupobancolombia.com/wps/portal/asset-management/about-us/"> <h5> <span>Asset Management</span> </h5></a></li>
+									<li><a href="//factoring.grupobancolombia.com/wps/portal/factoring/about-us/"> <h5> <span>Factoring</span> </h5></a></li>
+									<li><a href="//fiduciaria.grupobancolombia.com/wps/portal/fiduciaria/about-us/"> <h5> <span>Fiduciaria</span> </h5></a></li>
+									<li><a href="//leasing.grupobancolombia.com/wps/portal/leasing-bancolombia/about-us/"> <h5> <span>Leasing Bancolombia</span> </h5></a></li>
+									<li><a href="//renting.grupobancolombia.com/wps/portal/renting-colombia/about-us/"> <h5> <span>Renting Colombia</span> </h5></a></li>
+									<li><a href="//valores.grupobancolombia.com/wps/portal/valores-bancolombia/about-us/"> <h5> <span>Valores Bancolombia</span> </h5></a></li>
+								</ul>
+							</li>
+						</ul>
+					</li>
+					<li>
+						<h3 class="expandible">
+							Corporate Information
+							<li class="pull-right glyphicon glyphicon-plus"></li>
+						</h3>
+						<ul style="display: none;">
+							<li>
+								<h4>
+									<span>Acerca de Nosotros</span>
+								</h4>
+								<ul>
+									<li><a href="/wps/portal/about-us/corporate-information/financial-group/"> <h5> <span>About Grupo Bancolombia</span> </h5></a></li>
+									<li><a href="/wps/portal/about-us/corporate-information/corporate-governance/"> <h5> <span>Corporate Governance</span> </h5></a></li>
+									<li><a href="/wps/portal/about-us/corporate-information/sustainability/"> <h5> <span>Sustainability</span> </h5></a></li>
+									<li><a href="/wps/portal/about-us/corporate-information/investor-relations/"> <h5> <span>Investors Relations</span> </h5></a></li>
+								</ul>
+							</li>
+						</ul>
+					</li>
+					<li><a href="/wps/portal/about-us/economic-research/">
+							<h3>Economic Research</h3>
+					</a></li>
+				</ul>
+			</li>
+			<li class="azul">
+				<h2 class="expandible">Negocios Especializados</h2>
+				<ul style="display: none;">
+					<li>
+						<h3 class="expandible">
+							Negocios Especializados
+							<li class="pull-right glyphicon glyphicon-plus"></li>
+						</h3>
+						<ul style="display: none;">
+							<li>
+								<h4>
+									<span>Grupo Bancolombia</span>
+								</h4>
+								<ul>
+									<li><a href="//www.grupobancolombia.com/wps/portal/personas/">
+											<h5><span>Personas</span></h5>
+										</a></li>
+									<li><a href="//www.grupobancolombia.com/wps/portal/empresas/">
+											<h5><span>Empresas</span></h5>
+										</a></li>
+									<li><a href="//www.grupobancolombia.com/wps/portal/acerca-de/">
+											<h5><span>Acerca de Nosotros</span></h5>
+									</a></li>
+								</ul>
+							</li>	
+							<li>
+								<h4>
+									<span>Negocios en Colombia</span>
+								</h4>
+								<ul>
+									<li><a href="//bancainversion.grupobancolombia.com">
+											<h5><span>Banca de Inversión Bancolombia</span></h5>
+									</a></li>
+									<li><a href="//fiduciaria.grupobancolombia.com">
+											<h5><span>Fiduciaria Bancolombia</span></h5>
+									</a></li>
+									<li><a href="//leasing.grupobancolombia.com">
+											<h5><span>Leasing Bancolombia</span></h5>
+									</a></li>
+									<li><a href="//renting.grupobancolombia.com">
+											<h5><span>Renting Colombia</span></h5>
+									</a></li>
+									<li><a href="//valores.grupobancolombia.com">
+											<h5><span>Valores Bancolombia</span></h5>
+									</a></li>
+									<li><a href="//factoring.grupobancolombia.com">
+											<h5><span>Factoring Bancolombia</span></h5>
+									</a></li>
+									<li><a href="//assetmanagement.grupobancolombia.com">
+											<h5><span>Bancolombia Asset Management</span></h5>
+									</a></li>
+									<li><a href="http://www.sufi.com.co" target="_blank">
+											<h5><span>Sufi</span></h5>
+									</a></li>
+									<li><a href="http://www.tuya.com.co" target="_blank">
+											<h5><span>Tuya</span></h5>
+									</a></li>
+								</ul>
+							</li>
+							<li>
+								<h4>
+									<span>Entidades del exterior</span>
+								</h4>
+								<ul>
+									<li><a href="//valorespanama.grupobancolombia.com">
+											<h5><span>Valores Panamá</span></h5>
+									</a></li>
+									<li><a href="//fiduperu.grupobancolombia.com">
+											<h5><span>Fidu Perú</span></h5>
+									</a></li>
+									<li><a href="//leasingperu.grupobancolombia.com">
+											<h5><span>Leasing Perú</span></h5>
+									</a></li>
+									<li><a href="//rentingperu.grupobancolombia.com">
+											<h5><span>Renting Perú</span></h5>
+									</a></li>
+									<li><a href="//sucursalpanama.grupobancolombia.com">
+											<h5><span>Sucursal Panamá</span></h5>
+									</a></li>
+									<li><a href="//panama.grupobancolombia.com">
+											<h5><span>Bancolombia Panamá</span></h5>
+									</a></li>
+									<li><a href="//cayman.grupobancolombia.com/">
+											<h5><span>Bancolombia Cayman</span></h5>
+									</a></li>
+									<li><a href="//puertorico.grupobancolombia.com">
+											<h5><span>Bancolombia Puerto Rico</span></h5>
+									</a></li>
+									<li><a href="https://www.banistmo.com/wps/portal/banistmo/personas" target="_blank">
+											<h5><span>Banistmo</span></h5>
+									</a></li>
+									<li><a href="https://www.bancoagricola.com" target="_blank">
+											<h5><span>Banco Agrícola</span></h5>
+									</a></li>
+									<li><a href="http://www.bam.com.gt" target="_blank">
+											<h5><span>BAM (Banco Agromercantil de Guatemala)</span></h5>
+									</a></li>
+								</ul>
+							</li>
+						</ul>
+					</li>
+				</ul>
+			</li>
+		</ul>
+		<div class="redes">
+			<ul class="networks" dir="ltr">
+				<li class="facebook"><a target="_blank" title="Facebook" href="https://www.facebook.com/bancolombia">Facebook</a></li>
+				<li class="twitter"><a target="_blank" title="Twitter" href="https://twitter.com/Bancolombia">Twitter</a></li>
+				<li class="linkedin"><a target="_blank" title="Linkedin" href="https://www.linkedin.com/company/22690">Linkedin</a></li>
+				<li class="instagram"><a target="_blank" title="Instagram" href="https://instagram.com/bancolombia/">Instagram</a></li>
+				<li class="youtube"><a target="_blank" title="YouTube" href="https://www.youtube.com/user/GrupoBancolombia">YouTube</a></li>
+			</ul>
+		</div>
+	</div>
+</div></div>
+		<div class="top-nav">
+			<!-- renders the level 1 navigation -->
+			<!-- NAVEGACION NIVEL 1 -->
+<div class="top-nav">
+	<div class="top-ribbon hidden-xs">
+		<div class="barra"></div>
+		<div id="menu-1nivel" class="container-fluid">
+			<div class="row">
+				<ul>
+					<li id="linkPersonas" class=""><span class="flecha"></span> <a href="//www.grupobancolombia.com/wps/portal/personas/" onclick="changeActive('linkPersonas'); changeDesActive('linkEmpresas'); changeDesActive('linkAcercaDe');">Personas </a></li>
+					<li id="linkPymes"><span class="flecha"></span> <a href="//www.grupobancolombia.com/wps/portal/negocios-pymes/" onclick=" changeActive('linkPymes'); changeDesActive('linkPersonas'); changeDesActive('linkEmpresas'); changeDesActive('linkAcercaDe');">Pymes </a></li>
+					<li id="linkEmpresas" class=""><span class="flecha"></span><a href="//www.grupobancolombia.com/wps/portal/empresas/" onclick="changeActive('linkEmpresas'); changeDesActive('linkPersonas'); changeDesActive('linkAcercaDe');">Empresas</a></li>
+					<li id="linkAcercaDe" class="active"><span class="flecha"></span><a href="//www.grupobancolombia.com/wps/portal/acerca-de/" onclick="changeActive('linkAcercaDe'); changeDesActive('linkPersonas'); changeDesActive('linkEmpresas');"><span>Acerca de Nosotros</span></a></li>
+					<li id="menu-filiales"><a style="cursor: pointer;">Negocios Especializados</a></li>
+					<li class="derecha filiales"><a style="cursor: pointer;"><img src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABYAAAAWCAYAAADEtGw7AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyhpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNi1jMDE0IDc5LjE1Njc5NywgMjAxNC8wOC8yMC0wOTo1MzowMiAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTQgKE1hY2ludG9zaCkiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6MDEzRDAzRDg3NDI0MTFFNThDRjZDRjNDNTVBODA4MTQiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6MDEzRDAzRDk3NDI0MTFFNThDRjZDRjNDNTVBODA4MTQiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDowMTNEMDNENjc0MjQxMUU1OENGNkNGM0M1NUE4MDgxNCIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDowMTNEMDNENzc0MjQxMUU1OENGNkNGM0M1NUE4MDgxNCIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/Pv+/Ik8AAAG2SURBVHjatJXPLgNRFMannar12PiXWIg3wIIVUhFL0bFhXY/QeANm2drwABba0AdgJ5EUkdjY+JMoyoaFFYuO7/JNnVz31pQ4yS/N3HvOl9PJ+c4kwjB0/iOSLe7SYAFsgWvwCl7AOc985hgjYel4DgRgCNyAQ3DPuz4wBgbABciDnW8KSljggrXwM45ABiS0HIdnGeaErHFljl4QiQYgZRA0NRIIcaNwlgnFGII6RdZmdeE0qIFT/S+BQbAdfsUTyBs6V6/lllpN4UUWzRq6uQzNoYtneL4khUvgESS15ByTj4HHs7w4k7mq9gGU1XM0x6NgDzS0odlUIwlGwLN2pz+r2n3mNoV7QC2GoXJglaLLhns1871S+A10/CCqjLABTtjVlcWtH5Hibx30xxBWnU4bXoMjXFmXwmdggv+gYSnqirF3JsGBfBUV0A1mLEWecj/xLDlT1KjIXdHKIA5HLQrPYu0qDdKpW9pnYeEXli6w1rctoUAsIbfNJRS02m6uWCjVGGuzytx1vRHbop+nEUyLXhlgXCz6FVCO+wWJht3n12RYzPkdTbILSjSX047wn+JdgAEAcdgK49HGw/sAAAAASUVORK5CYII=" /></a></li>
+				</ul>
+			</div>
+		</div>
+	</div>
+	<div class="top-menu hidden-xs">
+		<div class="container-fluid">
+			<div class="row" style="position: absolute; margin-top: -1000px;">
+				<div class="col-md-4">
+					<h2>Negocios en Colombia</h2>
+					<ul class="check-list">
+						<li>
+							<a href="//bancainversion.grupobancolombia.com">Banca de Inversión Bancolombia</a>
+						</li>
+						<li>
+							<a href="//fiduciaria.grupobancolombia.com">Fiduciaria Bancolombia</a>
+						</li>
+						<li>
+							<a href="//leasing.grupobancolombia.com">Leasing Bancolombia</a>
+						</li>
+						<li>
+							<a href="//renting.grupobancolombia.com">Renting Colombia</a>
+						</li>
+						<li>
+							<a href="//valores.grupobancolombia.com">Valores Bancolombia</a>
+						</li>
+						<li>
+							<a href="//factoring.grupobancolombia.com">Factoring Bancolombia</a>
+						</li>
+						<li>
+							<a href="//assetmanagement.grupobancolombia.com">Asset Management</a>
+						</li>
+						<li>
+							<a href="//comerciointernacional.grupobancolombia.com">Comercio Internacional</a>
+						</li>
+						<li>
+							<a href="//sufi.grupobancolombia.com">Sufi</a>
+						</li>
+						<li>
+							<a href="http://www.tuya.com.co">Tuya</a>
+						</li>
+					</ul>
+					<!--
+					<ul>
+						<li class="principal"><a>Grupo Bancolombia</a></li>
+						<li><span class="glyphicon"></span><a
+							href="//www.grupobancolombia.com/wps/portal/personas/">Para Ti</a></li>
+						<li><span class="glyphicon"></span><a
+							href="//www.grupobancolombia.com/wps/portal/empresas/">Para Empresas</a></li>
+						<li><span class="glyphicon"></span><a
+							href="//www.grupobancolombia.com/wps/portal/acerca-de/">Acerca de Grupo Bancolombia</a></li>
+					</ul>
+					-->
+				</div>
+				<div class="col-md-4">
+					<h2>Entidades en el exterior</h2>
+					<ul class="check-list">
+						<li>
+							<a href="//valoresbanistmo.grupobancolombia.com">Valores Banistmo</a>
+						</li>
+						<li>
+							<a href="//fiduperu.grupobancolombia.com">FiduPerú</a>
+						</li>
+						<!--li>
+							<a href="//leasingperu.grupobancolombia.com">Leasing Perú</a>
+						</li-->
+						<li>
+							<a href="//rentingperu.grupobancolombia.com">Renting Perú</a>
+						</li>
+						<li>
+							<a href="//sucursalpanama.grupobancolombia.com">Sucursal Panamá</a>
+						</li>
+						<li>
+							<a href="//panama.grupobancolombia.com">Bancolombia Panamá</a>
+						</li>
+						<li>
+							<a href="//cayman.grupobancolombia.com">Bancolombia Cayman</a>
+						</li>
+						<li>
+							<a href="//puertorico.grupobancolombia.com">Bancolombia Puerto Rico</a>
+						</li>
+						<li>
+							<a href="https://www.banistmo.com/wps/portal/banistmo/personas">Banistmo</a>
+						</li>
+						<li>
+							<a href="https://www.bancoagricola.com">Banco Agrícola</a>
+						</li>
+						<li>
+							<a href="http://www.bam.com.gt">BAM (Banco Agromercantil de Guatemala)</a>
+						</li>
+					</ul>
+					</div>
+					<div class="col-md-4">
+						<h2>Plataformas regionales</h2>
+						<ul class="check-list">
+						<li><a href="//treasurykey.grupobancolombia.com/wps/portal/treasurykey/">TreasuryKey</a></li>
+						</ul>
+					</div>
+					<!--
+					<ul>
+						<li><a class="ng-binding">Negocios en Colombia</a></li>
+						<li class="principal"><span class="glyphicon"></span><a
+							href="//bancainversion.grupobancolombia.com" class="ng-binding">Banca de Inversi&oacute;n
+								Bancolombia</a></li>
+						<li class="principal"><span class="glyphicon"></span><a
+							href="//fiduciaria.grupobancolombia.com"
+							class="ng-binding">Fiduciaria Bancolombia</a></li>
+						<li class="principal"><span class="glyphicon"></span><a
+							href="//leasing.grupobancolombia.com" class="ng-binding">Leasing Bancolombia</a></li>
+						<li class="principal"><span class="glyphicon"></span><a
+							href="//renting.grupobancolombia.com" class="ng-binding">Renting Colombia</a></li>
+						<li class="principal"><span class="glyphicon"></span><a
+							href="//valores.grupobancolombia.com" class="ng-binding">Valores Bancolombia</a></li>
+						<li class="principal"><span class="glyphicon"></span><a
+							href="//factoring.grupobancolombia.com" class="ng-binding">Factoring Bancolombia</a></li>
+						<li class="principal"><span class="glyphicon"></span><a
+							href="//assetmanagement.grupobancolombia.com" class="ng-binding">Asset Management</a></li>
+						<li class="principal"><span class="glyphicon"></span><a
+							href="http://www.sufi.com.co" class="ng-binding" target="_blank">Sufi</a></li>
+						<li class="principal"><span class="glyphicon"></span><a
+							href="http://www.tuya.com.co" class="ng-binding" target="_blank">Tuya</a></li>
+					</ul>
+					-->
+				
+					<!--
+					<ul>
+						<li><a class="ng-binding">Entidades del exterior</a></li>
+						<li class="principal"><span class="glyphicon"></span><a
+							href="//valorespanama.grupobancolombia.com" class="ng-binding">Valores Bancolombia Panam&aacute;</a></li>
+						<li class="principal"><span class="glyphicon"></span><a
+							href="//fiduperu.grupobancolombia.com" class="ng-binding">FiduPer&uacute;</a></li>
+						<li class="principal"><span class="glyphicon"></span><a
+							href="//leasingperu.grupobancolombia.com" class="ng-binding">Leasing Per&uacute;</a></li>
+						<li class="principal"><span class="glyphicon"></span><a
+							href="//rentingperu.grupobancolombia.com" class="ng-binding">Renting Per&uacute;</a></li>
+						<li class="principal"><span class="glyphicon"></span><a
+							href="//sucursalpanama.grupobancolombia.com" class="ng-binding">Sucursal Panam&aacute;</a></li>
+						<li class="principal"><span class="glyphicon"></span><a
+							href="//panama.grupobancolombia.com" class="ng-binding">Bancolombia Panam&aacute;</a></li>
+						<li class="principal"><span class="glyphicon"></span><a
+							href="//cayman.grupobancolombia.com" class="ng-binding">Bancolombia Cayman</a></li>
+						<li class="principal"><span class="glyphicon"></span><a
+							href="//puertorico.grupobancolombia.com" class="ng-binding">Bancolombia Puerto Rico</a></li>
+						<li class="principal"><span class="glyphicon"></span><a
+							href="http://www.banistmo.com" class="ng-binding" target="_blank">Banistmo</a></li>
+						<li class="principal"><span class="glyphicon"></span><a
+							href=" http://www.bancoagricola.com" class="ng-binding" target="_blank">Banco Agr&iacute;cola</a></li>
+						<li class="principal"><span class="glyphicon"></span><a
+							href="http://www.bam.com.gt" class="ng-binding" target="_blank">BAM (Banco Agromercantil de Guatemala)</a></li>
+					</ul>
+					-->
+			</div>
+		</div>
+	</div>
+</div></div>
+		<div>
+			<!-- renders the level 2 navigation -->
+			<!--  NAVEGACION NIVEL 2 ACERCA DE -->
+<div class="container-fluid navbar" id="acercadeNivel2" style="display: block;">
+	<div id="main-menu" role="navigation" class="navbar-default">
+		<div class="navbar-header">
+			<a id="responsive-menu-acerca-de" style="cursor: pointer;" class="navbar-toggle collapsed">
+				<span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span>
+			</a> <a href="//www.grupobancolombia.com/wps/portal/acerca-de/" class="navbar-brand"> <img id="logoFilial" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKoAAABGCAYAAABc8A97AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA3hpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNi1jMTExIDc5LjE1ODMyNSwgMjAxNS8wOS8xMC0wMToxMDoyMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDphYmIyMzYxZi01NjhmLTRkMGQtYWVkZS00ZTU2NWEwZTcyNWIiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6ODJDQTE4MjBCOTEzMTFFNTk0MEJFQ0EyMDNEMzA1N0UiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6ODJDQTE4MUZCOTEzMTFFNTk0MEJFQ0EyMDNEMzA1N0UiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTUgKE1hY2ludG9zaCkiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDpkNWVkMjc0ZS1iMmFkLTRlZWQtOTZlNy02MTRkYzMxZGIyMzciIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6YWJiMjM2MWYtNTY4Zi00ZDBkLWFlZGUtNGU1NjVhMGU3MjVi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" width="170" height="40" alt="" title="" class="BancolombiaLogo" /></a>
+		</div>
+		<div class="collapse navbar-collapse">
+			<ul class="nav navbar-nav">
+				<li id="home"><a href="#">Inicio</a></li>
+				<li class="btn-group"><a href="/wps/portal/acerca-de/negocios-especializados/">Negocios especializados</a></li>
+				<li class="btn-group toggle-submenu"><a href="#informacionCorporativaAcercaDe">Información Corporativa</a></li>
+				<li class="btn-group"><a href="/wps/portal/acerca-de/sala-prensa/">Sala de
+						prensa</a></li>
+				<li class="btn-group about-us"><a href="/wps/portal/about-us/">About
+						Us</a></li>
+			</ul>
+			<ul class="nav navbar-nav btn-clic-tran">
+				<li class="btn-group a-un-click">
+					<a href="//www.grupobancolombia.com/wps/portal/personas/solicitud-de-productos-wcm">
+						<img id="logoBancolombiaClick" alt="Solicitud de productos" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABsAAAAdCAYAAABbjRdIAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA5BJREFUeNqsVl1IU2EYfuemaemaA7MLhdkkkCSPRN10sUnDKchygdRVzquoLqZZRBfhLAwkxvSmops5g8guarsoaBRuRSoUciylAqeGFf7hX7Ola633+zb1nLMfz9IXvo9zvr/ne96/75VAKqKzqrAnTcsZZWl72Tyx1XaJSBAT9mZsTJJVBMyBrQOBF1MH01kJA3uUjVghQE0I2CWcSEsCZMG+N0UgIgp6QZ3VLo6ZzmrDvhG2L13IsGH9RxoHqJbqfWeEgQN6CYy5PbHMdFaigvGoKjb1kr0LtIcLgSnOgzJ1Hiz6V+nYkG+Gt12Daxpuv4CJ6WUhaDkyZGWCwUYhkO08+ogkDN6hSehyD+NBSwlpqPL3gvnUEWi66xFOtWAzCsHMMQfsl4PR4hSlM3IRBpkT1oQ9R2pJjMoEtlLE+HFUZeubGfU+2lS586ApCYFC+hkYVUZkcQDjWzoCT683Q8VVt/CoWhnPmHHkK+rffrkawO8BrdqHt3lGv3kyxf/VFpahSuVC22m4YGXcGVPlIbCdRapr9wGWUI17MFb9In1wwQEm/R2wdPfz/EwmCMZNxyBAU1XinTxbC3/n8iA0kwGyY+eAHZ2NWSJLaOx5ZeJEmKGihwfZIAQ/ZsOfsUwI9r+H8PIXOr370giwPllSMF7W9nySAlOCh65Fh7MQOrceAj3fYe31PD08kaw+doH5SltMCHDBhrgTrj4fNJ6wUTB27jg4Xq1APdqxoF23pUZD335QjxUqiwtGr6HICkR+MIiLLsqJMdCr3mwsar+BMZ4+Bv6OAghNZ/ATrTwHMusMMF1jgNYH/UIwLy9dKQ03x33XbtEs7xwppbHU6taDx6eOeOjRd2A//Yh+/3qYTxs1ob4CfldXwfOcQuh8Moj2mo337BTxwMZ7lRYEaOFxX1CCIjOAoJXQUummzMMrUvh5rwbSNXUwcLAcugcmwdk3KswaXGnF3GjhgYVZmoS3fL9Y/wVwfKgD59vReEk3Livyess4QCYxQIRpeRtR66DYCDSulwncl7pezM4m18lU3rMGBPLwygJkxQgqprhCHMU5XCq2DjEK65C0jSdAzDV7zogrBSKPpVN0uopnK5vBRb3R6ysGC3qnoHYk6upMVj9KUvFCrpokDOSmWpCkbcRBRM9ixfM/1Y+E4/rkiSElnCmBwYkNvAQIWU1sC4wDqo3WIt6oLYjK2J2o6/4JMADacztHPjOuggAAAABJRU5ErkJggg==" />
+						<span>Solicitud de productos</span>
+					</a>
+				</li>
+			</ul>
+		</div>
+	</div>
+</div>
+
+<!--  NAVEGACION NIVEL 2 ABOUT US -->
+<div class="container-fluid navbar" id="aboutusNivel2" style="display: none">
+	<div id="main-menu" role="navigation" class="navbar-default">
+		<div class="navbar-header">
+			<a id="responsive-menu-acerca-de" style="cursor: pointer;" class="navbar-toggle collapsed">
+				<span class="sr-only">Toggle navigation</span><span class="icon-bar"></span><span class="icon-bar"></span><span class="icon-bar"></span>
+			</a> <a href="//www.grupobancolombia.com/wps/portal/about-us/" class="navbar-brand"> <img id="logoFilial" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAKoAAABGCAYAAABc8A97AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAA3hpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNi1jMTExIDc5LjE1ODMyNSwgMjAxNS8wOS8xMC0wMToxMDoyMCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wTU09Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9tbS8iIHhtbG5zOnN0UmVmPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvc1R5cGUvUmVzb3VyY2VSZWYjIiB4bWxuczp4bXA9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC8iIHhtcE1NOk9yaWdpbmFsRG9jdW1lbnRJRD0ieG1wLmRpZDphYmIyMzYxZi01NjhmLTRkMGQtYWVkZS00ZTU2NWEwZTcyNWIiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6ODJDQTE4MjBCOTEzMTFFNTk0MEJFQ0EyMDNEMzA1N0UiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6ODJDQTE4MUZCOTEzMTFFNTk0MEJFQ0EyMDNEMzA1N0UiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTUgKE1hY2ludG9zaCkiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDpkNWVkMjc0ZS1iMmFkLTRlZWQtOTZlNy02MTRkYzMxZGIyMzciIHN0UmVmOmRvY3VtZW50SUQ9InhtcC5kaWQ6YWJiMjM2MWYtNTY4Zi00ZDBkLWFlZGUtNGU1NjVhMGU3MjVi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" width="170" height="40" alt="" title="" class="BancolombiaLogo" /></a>
+		</div>
+		<div class="collapse navbar-collapse">
+			<ul class="nav navbar-nav">
+				<li id="home"><a href="#">Inicio</a></li>
+				<li class="btn-group toggle-submenu"><a href="#negociosEspecializadosAboutUs">Special Business Lines</a></li>
+				<li class="btn-group toggle-submenu"><a href="#informacionCorporativaAboutUs">Corporate Information</a></li>
+				<li class="btn-group"><a href="/wps/portal/about-us/economic-research/">Economic Research</a></li>
+				<li class="btn-group espanol"><a href="/wps/portal/acerca-de/">Español</a></li>
+			</ul>
+		</div>
+	</div>
+</div></div>
+		<div class="row-fluid submenu hidden-xs">
+			<!-- renders the level 3 navigation -->
+			
+
+<div class="row-fluid submenu hidden-xs" style="display:none">
+	<div class="contenido">
+		<div class="container-fluid">
+			<!-- MENU TERCER NIVEL BANCOLOMBIA INFORMACION CORPORATIVA ACERCADE  -->
+			<div id="informacionCorporativaAcercaDe" class="row">
+				<div class="col-xs-12">
+					<div class="row">
+						<div class="col-sm-12 titulo-submenu">
+							<h2>
+								<a href="/wps/portal/informacion-corporativa/">Información
+									Corporativa</a>
+							</h2>
+							<div class="row">
+								<div class="img-izquierda col-xs-4">
+									<div style="background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAMAAAAM7l6QAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAFrUExURQAAAFNZYStPdlpbXURVaFRZYFRZYFpbXTRRcVJZYVVaYFlbXlRaYFNZYVBYYjlTblpbXVJZYVNZYQBEjP///wFEjAlGhwhGiARFihxLffj6/M7b6a7E2qrB2Y+tzPr7/VKAsWaPuv3+/oamyCpjn018rw9Pk3CWvwRHjvX4+lB/sGWOum6Vvurw9qvB2YOkx8HS4/7+/1SCshRTlTdspY6szC5modbh7eju9Ymoyuzx9kx8roenyfD0+LjL39Tf7CZgncjX5rvN4LzO4aS81lWCsi5loShhns3a6JOwzkN1qiNenLHG3FaDsuDo8eft9AhKkNnj7hNSlQxNkViFtPf5+ytknxlWl0R2qx1Zmj5xqMfW5hxZmazC2nuew/n7/Pb4+8nX5xhWl3yfxDhtpaa+1zJpo0J0qiNdm9Xg7CdhndHd6n6gxRFQlNDd6gdJj059r5CuzbDF21mFtKe+16C51GSNuYyry3mdw2Ii2kcAAAATdFJOUwDz/Bf1bPEG+bX0WPPjr/YKmsry972kAAABd0lEQVQoz4WT9ZOCQBiGARUVRMQFFdszz77u7u7u7s4//9hdYYDxhvcHZud7lq+XIFT5WC/HkCTDeVkfYZZN8PByECgKyrxHsBmpg6ZCQFOIoh066HTbA8CggN3t1KjfJQGTJJdf5W4XaCKXuxHXLjXDkh3Ft9Fq3POb0uPbV/S9Gn9C8WmYv0DBcyYfXRE11dB1SlC64YEV7YsGVV5QfR4fwfLwlAtje2vkM/77/fFaQL/zLOGV0elITNTT2dv7YvknVn9+uLuGRtlLcKiT4HB3byp+FtbcX6H+cgSD6MLxQYsh+sk6NDMEqXyTY6JJp7PbEJMIV/Skf3hwaX5zB2AMnU+oaHky1TmQHh8SxRjAzmFqF6imxdR0cW6kDV8M53BqsLBLcauaXAUxfXYlXBhqS2YDulrTp5DHbcFNRapprLdvtNHUxkigZjBLRLMFbSS6gYKIAiPlDnWh0EB169De09VtXgerZbJaRYtFtnoGlo/ovyf4B7CcSc1Es9HiAAAAAElFTkSuQmCC);" class="row-fluid">
+										<a href="/wps/portal/acerca-de/informacion-corporativa/quienes-somos/">Quiénes
+											Somos</a>
+									</div>
+								</div>
+								<div class="img-izquierda col-xs-4">
+									<div style="background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAYAAABzenr0AAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyhpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNi1jMDY3IDc5LjE1Nzc0NywgMjAxNS8wMy8zMC0yMzo0MDo0MiAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTUgKE1hY2ludG9zaCkiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6M0JEN0NDRUM4NTdFMTFFNTg2RDA5QjJGMzRERThENzEiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6M0JEN0NDRUQ4NTdFMTFFNTg2RDA5QjJGMzRERThENzEiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDozQkQ3Q0NFQTg1N0UxMUU1ODZEMDlCMkYzNERFOEQ3MSIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDozQkQ3Q0NFQjg1N0UxMUU1ODZEMDlCMkYzNERFOEQ3MSIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/Pl3xrs4AAAOZSURBVHja7FdbSBRRGD5nzuzujJrueklXSyFDCl03JKjoQgRFFyS6oKxLkQVB4EP0UBHRS0T00Gv0ECVJG0UQFRUFkV0hTCFXM1PULC9ruu7FdXdmZ+b0j2Vs4brtLR/qwMDh7L///53///7LwZRSNJcLW6x7VyiUuc1gJVtWSJuGkU7B+YNr1xqUvwGAlJqWtTS5F+W9cBcSSeaMqUTYzjJKnclkFszl5Xa7vVVKqgdqavYKthGzNvSwUONHJSkOf7bOIzGIVttsVx+q51brngqJMhaZMlnRGtIwcjfougyeHf4FQJWltnE4oF/d7DOyPoX88qcCALLG0D1yw1afC6HaCsZv9fhyeVFho76pnvXL+fyYm8VKaSgIFmJemce5zlfyTutQIJN88OXoHLJu6seBII8wUvTqHvhxttlTxPcI82IO91qEMgr40QOwPzN9yAAa783rVw4SrBQYOefp9Vmd4xUpX0MJOJ0mBo+kiyveLoknEiXFoWc/fQlAXCoyiPNAKhEvwn5Wa7lEQBsLHIig4CwMw6jPa0DPnIawImyst1me40HVOzahDRvWh5URRREdPnIUvRrPQMCfxAIY8mnRo8dPUFfPp7AyghBAEtKGNR4XgBZvBhrt1iKu1xFWhlKMPotFs+ph4yFVP2QJUr84FoPmeP0H8K8BoKpBJVYA3fk6b1zmjTq3QBj5TUxpCE3r0NK0gdcLdeOsX2Gj9RxOZwNUQ4Id0JIbYgIAvaIT+kShXjuxCtpjWgwOGISvCfTQKAFgZrdl/92p0pqAIQ10qVyQYS54Ch34QkQAb1zFGphmKhNJRRZ4WMSPbU7TTK4MBwBPb3rF1KTkw0chnavKse+aiUz9es2EmOyETMcy+AEHZ/JAI8eK9srMTpMrmKYNmYgSV3ywQudzLgUUH8MzCQDbVc+ok0ZhkhygjvotkBHvcSTJ6pp9J2EwPQHTFYEHzCUWy3W/p1KkBRdaDLPgfbh5MejoAx3bQUd7xEoIf1wD08zxh6Ol/O2RMu2kpKuFuNVEe12RkjsdE/kl1x1m0uZdUAxg7v1pKV4+5M/k3fAOCFCCPgcyeQC0Luq0w0pJ6+T3t0y736ByYOGPMEcE8NbIO/0ZjIQ4rKAFnNMPyp5HHXDKdJn5sal9GTeOIAwD029PJkL5fQkGz23Jbg/szLGLKUSoh1puixaAFmK+ZN5glyX3nVya/kXlwLafBWeun+ffBBgA7/dnDsFDfAAAAAAASUVORK5CYII=);" class="row-fluid">
+										<a href="/wps/portal/acerca-de/informacion-corporativa/proveedores/">Proveedores</a>
+									</div>
+								</div>
+								<div class="img-izquierda col-xs-4">
+									<div style="background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACEAAAAUCAMAAAA0jaRDAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAJYUExURQAAADJRck5YZFpbXVpbXVpbXVlbXlpbXVpbXVpbXVpbXU1YZFpbXVpbXVpbXVpbXVpbXVpbXVpbXVpbXVpbXVpbXVpbXVpbXVpbXVpbXVpbXVpbXVpbXVpbXVpbXVpbXVpbXVpbXVpbXVpbXVpbXVpbXVpbXUhWZ1hbXlhaXldaX1pbXUBUa05YY1pbXVpbXT9Ua1pbXU5YY1pbXU5YY1NZYVpbXVZaXyxPdSlPd1ZaX1pbXVVaYE1YZE5YY1pbXU1YZFVaX1pbXUxXZVpbXU5YZFFYYlpbXS5QdEBValpbXVZaX0JValpbXVpbXUFVak5YY1pbXT9Ua05YY1VaX09YY0xXZCtPdllbXU5YY1VaYE5YZFFZYk9YY1haXlRaYFZaX1daX1lbXkpXZVpbXVpbXVpbXUJVaVpbXVpbXVpbXVRaYFpbXSpPd1pbXVpbXVpbXVpbXVpbXVpbXU1YZE5YY1pbXUFValpbXU9YY0pXZVpbXVpbXVpbXVJZYlpbXURVaFpbXU1YZEFVakhWZlpbXVpbXVpbXVpbXVpbXVpbXVpbXVpbXVpbXVpbXVpbXVpbXVpbXVpbXVpbXVpbXVpbXVpbXVpbXVpbXVpbXVpbXVpbXVpbXVpbXVpbXVpbXVpbXVpbXVpbXVpbXVpbXVpbXVpbXVpbXVpbXVpbXQBEjRJJgwNFix1LfRhKgBBIhAxHhipPdgJEiwpGhwdGiTFRcw1HhghGiRNJg0ZWaAVGiwxHhw9IhTtTbRdKgT1TbQpHiERVaR1LfhxLfiNNey1PdTBQdClOd/XSpT4AAACqdFJOUwDz5weIykQDi8cSsUHwCZhDMwYKzDcMuMYh4R0TdKalxFEBwBEVyfqD+uxw/sNbV+6v6qOm8d9V+Pr6hlywxV+vXyzqqf3eufb8G/f0JkDzmR/9yE3t6vjuv13j4On7+tDet/rS49P72ypJYVj5eH7ProU04srC/Qiy3V2egux3yBrbwtFmki42VpMFOyM1zrwPTUugDcVOHD2qsWduVL8WMSXIGEJeOifDB3atZAAAAYhJREFUKM9jYGBgKCoozOFjQAd8UcGhARAmOyeDZJ6EXBZI1NHWzsGGGcgKiQwL372KiR2sQoAFRGamZShHeFuu377ewsjEyc9nzyogYGQDq+AXBFOpPInJu1aBwToDN38wYzU31BIQ4OJNSF8FB1tc14BpsDUQSxg4UuLBYps2g6mta1fBrYFaIpW0F2S+uqbpDpDUBh24NXBLROOCPK20NIS8oveB5HbCrYFZIs4QyGEtCWKqlBwCSm2EW8NfDLGEBxFWwlVHgNbsh1kjogSxBDk4hVqOr1p1EGJNLANrvi/EEjjomsjA3nAMYs02jxgGZkUXBVlpM3uEiknzVRgYmo8eLj+Q66xrDooCBjE9Q2MJfah851SGpYtVGZSa6ipLs8WQrBaW54DE0mSFJQyirDMYeuQwYlvbXYaBQaYXKL2CYaHIdNlaDBUMPKyCDI1qMxkWqS1nmNtfL4SpgkG6rJpBVXkew4KVLBPaGbCCipq2buFps5bNlu9gwAVaRTinKM7pQxYCAGCNlawoyxH9AAAAAElFTkSuQmCC);" class="row-fluid">
+										<a href="/wps/portal/acerca-de/informacion-corporativa/relacion-inversionistas/">Relación
+											con Inversionistas</a>
+									</div>
+								</div>
+								<div class="img-izquierda col-xs-4">
+									<div style="background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABoAAAAcCAMAAABIzV/hAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAJ2UExURQAAAABEjQBEjVNZYQBEjQBEjQBEjQBEjVFZYgBEjQBEjUZWaFRZYFpbXVFZYlRZYFRZYFpbXVRZYFJZYQBEjUZWaABEjVpbXQBEjQBEjQBEjQBEjQBEjVFZYgBEjVRZYFNZYQBEjQBEjQBEjQBEjQBEjQBEjQBEjQBEjQBEjQBEjVZaXwBEjQBEjQBEjVpbXVpbXVRZYC1PdTVRcVpbXVJZYgBEjVhaXlFZYjhSb1NZYVFZYgBEjQBEjQBEjQBEjU1YZFBZYlJZYQBEjVVaYFBZYgBEjVpbXTRRcllbXlpbXUBUa1pbXQBEjUJValhaXlpbXVNZYTBQdFpbXT5UbFVaYEJValNZYVNZYVNaYVVaX1JZYVNZYVBZYlVaYFBYYlFZYiNNej1UbSlPd0dWZ1ZaX1pbXU9YY1JZYgBEjTdScChOeABEjVpbXSZOeFpbXUtXZVFZYldaX1FZYlBYYlNZYVFZYlNZYVFZYgBEjU9YY1pbXTJRclZbXz9Ua1JZYVFZYi1QdVlbXlBYYlBYYlpbXQBEjVJZYVJZYQBEjQBEjVNZYVpbXUtXZVBYYgBEjVhbXlZaX1NZYVlbXjZScElXZlpbXVpbXVBYYjNRckBUa1daXwJFjFFZYlVaYFFZYlBZYkBUa0VWaFFZYkhWZzBQc1NZYVFZYlpbXVdaX1FZYlBZYlRaYFJZYVpbXU9YY1haXgBEjQJEjCBMfANFixZKgRpLfxdKgQ1HhgtHhxBIhBRJghBIhR5MfR1LfgpGiA9IhR9MfQlGiBVJggRFixZKggxHhhxLfhJJhAJFjAdGiQVFig5Ihh9MfBlKfwhGiQZFiiVNeftrYMgAAACxdFJOUwAKA+0BHXTY1QYa8Osk8OztAu/infEmNL2jW5E6pkd65CKen4ZUw07J28hkt5qNFwfx+/cM1bxZ8fXxzYIJVRvwsX9p4sYjD/dRC/YcwPCCBOL5PvPp78TvrZHT5amqu7H+8vzvowH2ydz1/dAy/iPvm3qdxobQ69rG8BX9n/Hv2/o6q+8/fI7rbRjmJ+7R13z3nfn08oNEuffyQIdIf/L1GPDA+/nu51uHnO/x4yXR+Re8PZQAAAF4SURBVCjPY2AAgaaGFqHmVkEGTFBdf2LjyeN15YW5GFKlNRtB4Mhm7gx3VJm0orKqxmNg2eRYVKngdL6S2oqC7EMbN27iR5Vy3LfxcFZEfKpwSuKBQBQZE6tNQKM2bUtiTogTcEKR0jbeCAFbDvq5oJpnumsjDOy2RpHJd4DLbLQ0R5Fqz4PLbDE0QJYR5D8Fl9osi6Jp+iyEeaLiKFIztsFldiqgum/yzLNnoFJG8qhSE6ZN6uPz2AOSstBHlZo4pbe72J+De+vGra5wQU4pSQkRBqGNG09vDouJig7x9oTJyLFLy7CKMQiArdkfxBwZHgCVYdNSBNNrL0DcsDfUCyajwwhhcFw8D5LZzuMDlVHXgMowrFglvOjcxqM8vFA+lyYrzMoNqzlWLp7aAZPhVFOFu3PNxh1Ll83rgfJYlFUQ/lq/feOO+bOhHCZdJRaE1LrlSxbMhbLtzfSYUMJj4Zz+Ti4g7WbDboeRRLvaKtlzMn2dbVFEAesbqZ5LmgyOAAAAAElFTkSuQmCC);" class="row-fluid">
+										<a href="/wps/portal/acerca-de/informacion-corporativa/gobierno-corporativo/">Gobierno
+											Corporativo</a>
+									</div>
+								</div>
+								<div class="img-izquierda col-xs-4">
+									<div style="background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABgAAAAdCAMAAACHZFx5AAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAGSUExURQAAAFNZYVBYYlNZYVpbXVFZYlpbXVJZYklXZlpbXVFZYhpLf0dWZ1pbXVJZYVJZYiRNelJZYStPdlpbXVJZYUNVaVpbXTBQc1RaYDZScFRaYCtPdlBYYjVScU9YY1pbXVpbXVJZYUZWaD5UbFFZYlpbXVBYYlpbXUZWaFBYYlNZYVFZYj5UbFJZYihOeFpbXVpbXTFRc1BZYlJZYlpbXT1UbFNZYVBYYlJZYVpbXVBYYlJZYUZWaFpbXU9YY1pbXVhbXiJNe1BYYlBYYiZOeFFZYlFZYjJRciVNeVFZYk9YY1ZaX1FZYlpbXVNZYVpbXUxXZFpbXVpbXVVaYFFZYiBMfCZOeVBZYkJVak9YY1BZYlBYYlBZYlpbXShOeFNZYVpbXVBYYlJZYlVaYEZWaEpXZk1YZERVaE9YY01YZChOeABEjQFEjSJNewFEjBRJghxLfgNFiwZFihNJgwxHhwhGiRVJghtLfwhGiA9IhRFIhDhSbx9MfA1HhilOd0xYZARFiwtHhyRNej5UbAVFixpLf1YDmAgAAABrdFJOUwDv7+oP7RBq6wK+/vAt3M38cfwy7PBb+GD1f/vt9swiVe308tAkuCru0/LD9X77KyD4zN0G8nLl1Qmo4PFWuC84/f2U/OuG+P3v70GmBeMV7BIR7en+/evvq5mYySX84g26lV7n6I7n0uv9JH66DgAAAQZJREFUKM9jYICBwMjwgJBoSwZ0EOQXmp2dp2dhgi4RFZYNAoZmqMLytsEtYIlKI2RhVRUN6RqweHahqbE+XFydtSwbAapYDWASfMXZyKBcDSouLIoinp2jCJUQE0KVyNayh0goiKNJFETE+APFOaWUstFBQXwCg6+2bCmGRHZcEoObezYWUMjMwNyATSKbicELq3gOIwNjHjaJ1kQGHw8s4o1MsQws1o7owhUurt5Af7BZyXCjiCtr6rJBvM7LgyxeJMIJD3cuAYR4no4gIqJY+CVLsnPy62qBhI0zchRySsiZO1U3Ndd72jlgJBMOoDm57AwMtJTIBEpkJWORSEtNT8lggXMBw6CgqgSUFjoAAAAASUVORK5CYII=);" class="row-fluid">
+										<a href="/wps/portal/acerca-de/informacion-corporativa/sostenibilidad/">Sostenibilidad</a>
+									</div>
+								</div>
+								<div class="img-izquierda col-xs-4">
+									<div style="background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABkAAAAdCAMAAABopjdHAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAACxUExURU9YY1BYYlJZYVNZYVpbXVJZYVNZYU9YY1RaYEBUawBEjeDg4V5mb////1tnc/X19WFla1BkesvMzFdmd0hge1tkburq61hkcgZFigVFijNVelpkcA5IhVplchJJhJydngdGiV5lbTFUe0VeeglGiAVFi5aXmQxHh01heDlZfJ2dnlVkdR1Nglxmct/f4FpmctLT0xRJhFRjdNTV1RZLg1hldTJVelVkdN3e3htNgllmdHBBkn4AAAAKdFJOU+3venkBf+vu7/UWvr6rAAAAsElEQVQoz7XS1w7CIBiGYVo7kYLbtrZ2b/fW+78w9QSpQkxMfE+fhPwhH1A6mg7e0zVZAappw89sUwWGA3k5BpAgPwkACA9rhNBy0RbwlPOeELKacWQ6sSyLjP8uu83jggvvgu0RY3y7coTbN5lHPbZoTiXOB2x5TCWrRmxVRqVoMFtTUHHrLlvtUknLIVuZUgmTPlsSvl4LWq8FJyqej9h87+ffEW9HvDfxRhVZsOs76rwiiVNeEyYAAAAASUVORK5CYII=);" class="row-fluid">
+										<a href="/wps/portal/acerca-de/informacion-corporativa/trabaja-con-nosotros/">Trabaja
+											con Nosotros</a>
+									</div>
+								</div>
+							</div>
+							<div class="row pata">
+								<div class="row">
+									<div class="col-sm-6">
+										<div class="col-xs-2">
+											<a href="/wps/portal/acerca-de/informacion-corporativa/fundacion-bancolomia">
+												<div class="col-xs-1">
+													<img class="center-block" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADwAAAAmCAYAAACYsfiPAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyhpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNi1jMDE0IDc5LjE1Njc5NywgMjAxNC8wOC8yMC0wOTo1MzowMiAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTQgKE1hY2ludG9zaCkiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6MTk0ODlDRjkxRTIyMTFFNzk1OERCMTY0MjE3QzdFNDkiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6MTk0ODlDRkExRTIyMTFFNzk1OERCMTY0MjE3QzdFNDkiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDoxOTQ4OUNGNzFFMjIxMUU3OTU4REIxNjQyMTdDN0U0OSIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDoxOTQ4OUNGODFFMjIxMUU3OTU4REIxNjQyMTdDN0U0OSIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/Powlk68AAAt4SURBVHja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" alt="" />
+												</div>
+											</a>
+										</div>
+										<div class="col-xs-10">
+											<div class="col-xs-11 item-dest">
+												<h2>
+													<a href="/wps/portal/acerca-de/informacion-corporativa/fundacion-bancolombia/">Fundación Bancolombia</a>
+												</h2>
+											</div>
+										</div>
+									</div>
+									<div class="col-sm-6">
+										<a href="/wps/portal/acerca-de/informacion-corporativa/historias-que-transforman/">
+											<div class="col-xs-2">
+												<img class="center-block" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyhpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNi1jMTMyIDc5LjE1OTI4NCwgMjAxNi8wNC8xOS0xMzoxMzo0MCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTUuNSAoV2luZG93cykiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6M0Q2RUI1ODE2MDlCMTFFNjhBNjZDRDI5QzkyMzdBQUMiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6M0Q2RUI1ODI2MDlCMTFFNjhBNjZDRDI5QzkyMzdBQUMiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDozRDZFQjU3RjYwOUIxMUU2OEE2NkNEMjlDOTIzN0FBQyIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDozRDZFQjU4MDYwOUIxMUU2OEE2NkNEMjlDOTIzN0FBQyIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/Pi0CyXQAAAYnSURBVHja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" alt="" />
+											</div>
+										</a>
+										<div class="col-xs-10 item-dest">
+											<h2>
+												<a href="/wps/portal/acerca-de/informacion-corporativa/historias-que-transforman/">Historias que transforman</a>
+											</h2>
+										</div>
+									</div>
+								</div>
+							
+							
+								<!--
+								<div class="col-xs-10">
+									<div class="row">
+										<a href="/wps/portal/acerca-de/informacion-corporativa/historias-que-transforman/">
+											<div class="col-xs-1">
+												<img class="center-block" alt="" src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAADIAAAAyCAYAAAAeP4ixAAAAGXRFWHRTb2Z0d2FyZQBBZG9iZSBJbWFnZVJlYWR5ccllPAAAAyhpVFh0WE1MOmNvbS5hZG9iZS54bXAAAAAAADw/eHBhY2tldCBiZWdpbj0i77u/IiBpZD0iVzVNME1wQ2VoaUh6cmVTek5UY3prYzlkIj8+IDx4OnhtcG1ldGEgeG1sbnM6eD0iYWRvYmU6bnM6bWV0YS8iIHg6eG1wdGs9IkFkb2JlIFhNUCBDb3JlIDUuNi1jMTMyIDc5LjE1OTI4NCwgMjAxNi8wNC8xOS0xMzoxMzo0MCAgICAgICAgIj4gPHJkZjpSREYgeG1sbnM6cmRmPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5LzAyLzIyLXJkZi1zeW50YXgtbnMjIj4gPHJkZjpEZXNjcmlwdGlvbiByZGY6YWJvdXQ9IiIgeG1sbnM6eG1wPSJodHRwOi8vbnMuYWRvYmUuY29tL3hhcC8xLjAvIiB4bWxuczp4bXBNTT0iaHR0cDovL25zLmFkb2JlLmNvbS94YXAvMS4wL21tLyIgeG1sbnM6c3RSZWY9Imh0dHA6Ly9ucy5hZG9iZS5jb20veGFwLzEuMC9zVHlwZS9SZXNvdXJjZVJlZiMiIHhtcDpDcmVhdG9yVG9vbD0iQWRvYmUgUGhvdG9zaG9wIENDIDIwMTUuNSAoV2luZG93cykiIHhtcE1NOkluc3RhbmNlSUQ9InhtcC5paWQ6M0Q2RUI1ODE2MDlCMTFFNjhBNjZDRDI5QzkyMzdBQUMiIHhtcE1NOkRvY3VtZW50SUQ9InhtcC5kaWQ6M0Q2RUI1ODI2MDlCMTFFNjhBNjZDRDI5QzkyMzdBQUMiPiA8eG1wTU06RGVyaXZlZEZyb20gc3RSZWY6aW5zdGFuY2VJRD0ieG1wLmlpZDozRDZFQjU3RjYwOUIxMUU2OEE2NkNEMjlDOTIzN0FBQyIgc3RSZWY6ZG9jdW1lbnRJRD0ieG1wLmRpZDozRDZFQjU4MDYwOUIxMUU2OEE2NkNEMjlDOTIzN0FBQyIvPiA8L3JkZjpEZXNjcmlwdGlvbj4gPC9yZGY6UkRGPiA8L3g6eG1wbWV0YT4gPD94cGFja2V0IGVuZD0iciI/Pi0CyXQAAAYnSURBVHja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">
+											</div>
+										</a>
+										<div class="col-xs-11 item-dest">
+											<h2>
+												<a href="/wps/portal/acerca-de/informacion-corporativa/historias-que-transforman/">Historias que transforman</a>
+											</h2>
+										</div>
+									</div>
+								</div>
+								-->
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- MENU TERCER NIVEL BANCOLOMBIA INFORMACION CORPORATIVA ABOUTUS  -->
+			<div id="informacionCorporativaAboutUs" class="row">
+				<div class="col-xs-12">
+					<div class="row">
+						<div class="col-sm-12 titulo-submenu">
+							<h2>Corporate Information</h2>
+							<div class="row">
+								<div class="img-izquierda col-xs-4">
+									<div style="background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAMAAAAM7l6QAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAFrUExURQAAAFNZYStPdlpbXURVaFRZYFRZYFpbXTRRcVJZYVVaYFlbXlRaYFNZYVBYYjlTblpbXVJZYVNZYQBEjP///wFEjAlGhwhGiARFihxLffj6/M7b6a7E2qrB2Y+tzPr7/VKAsWaPuv3+/oamyCpjn018rw9Pk3CWvwRHjvX4+lB/sGWOum6Vvurw9qvB2YOkx8HS4/7+/1SCshRTlTdspY6szC5modbh7eju9Ymoyuzx9kx8roenyfD0+LjL39Tf7CZgncjX5rvN4LzO4aS81lWCsi5loShhns3a6JOwzkN1qiNenLHG3FaDsuDo8eft9AhKkNnj7hNSlQxNkViFtPf5+ytknxlWl0R2qx1Zmj5xqMfW5hxZmazC2nuew/n7/Pb4+8nX5xhWl3yfxDhtpaa+1zJpo0J0qiNdm9Xg7CdhndHd6n6gxRFQlNDd6gdJj059r5CuzbDF21mFtKe+16C51GSNuYyry3mdw2Ii2kcAAAATdFJOUwDz/Bf1bPEG+bX0WPPjr/YKmsry972kAAABd0lEQVQoz4WT9ZOCQBiGARUVRMQFFdszz77u7u7u7s4//9hdYYDxhvcHZud7lq+XIFT5WC/HkCTDeVkfYZZN8PByECgKyrxHsBmpg6ZCQFOIoh066HTbA8CggN3t1KjfJQGTJJdf5W4XaCKXuxHXLjXDkh3Ft9Fq3POb0uPbV/S9Gn9C8WmYv0DBcyYfXRE11dB1SlC64YEV7YsGVV5QfR4fwfLwlAtje2vkM/77/fFaQL/zLOGV0elITNTT2dv7YvknVn9+uLuGRtlLcKiT4HB3byp+FtbcX6H+cgSD6MLxQYsh+sk6NDMEqXyTY6JJp7PbEJMIV/Skf3hwaX5zB2AMnU+oaHky1TmQHh8SxRjAzmFqF6imxdR0cW6kDV8M53BqsLBLcauaXAUxfXYlXBhqS2YDulrTp5DHbcFNRapprLdvtNHUxkigZjBLRLMFbSS6gYKIAiPlDnWh0EB169De09VtXgerZbJaRYtFtnoGlo/ovyf4B7CcSc1Es9HiAAAAAElFTkSuQmCC);" class="row-fluid">
+										<a href="/wps/portal/about-us/corporate-information/financial-group/">About
+											Grupo Bancolombia
+										</a>
+									</div>
+								</div>
+								<div class="img-izquierda col-xs-4">
+									<div style="background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACEAAAAZCAMAAACIE7edAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAGVUExURQAAAEZWaFZaXzNRckZWaE5YZE9YY0RVaFpbXR5MfVZaX0VWaFpbXU5YY1pbXVRZYEhWZ05YY05YY1NZYUNVaU1YZFVaYDhSb0tXZTZScEhWZ0lXZkBUa0pXZVZaXyxPdUVWaE5YY1FZYlVaYE9YY1pbXVpbXSJNe09YY09YY1pbXU5YY09YY05YYzlTb05YZE1YZFhbXlVaYE1YZE5YY0RVaEpXZlJZYU5YYy5QdU9YY0xXZVpbXUZWaERVaUBUa0RVaSdOeFpbXSRNekdWZ1BYY0VVZ0VWaFVaYFNZYVlbXitPdjFRc1pbXU9YY0xXZVJZYjtTbjZScDNRck5YY1pbXVVaYCZOeVpbXU5YYylOd05YZE9YY0dWZ1pbXVBYYlNZYVNZYU9YY1haXkdWZyBMfFpbXVNZYU5YZEVWaFBZYk9YY1BYYlRaYEtXZQBEjQZFigJFjA1HhkBUa0FVagFEjBhKgCBMfCNNewFEjQNFiwdGiRdKgQRFiwZGikNVaUFUakJVah1LfRlKgBFIhBBIhQVFitrV/RkAAABvdFJOUwDuMvXnw2znAf4v7iKXH2ruaYls7N3p8+b75uXw4vn28at48dkSC/zfjg+V29nyds0wSr6m7uNNhfbc6Qz9/ev4+x779Mbo6v7+T/nxOsTmdezz9OUmW/wXvPjfbe0IyvNQpivr/Brtou9UpG0+69PPfWUAAAFdSURBVCjPvdFFcwJBEAXgxt3d3SHu7u7u7jZAgkM8+d0ZBnazqYJr+jKv3nyHnl0A5jS3dnAtTS1QdxrbkwihQkObsA7otOYQme6uOqLnuQJQrrevJhgZRNTMztQU83O0eF+qKdaXabG58feKrzPbXD4QriUocbYFPpfNrONXgIyDb4rBMNytVsH5CYSDRYQSHFkZSLWkFUUAbldKOKV2Dg8gIiKtVoqFJkNyKgZwf/mB0+fRMUAsRdqMBgtFluREFG6uCyR+W/cgWtkpq8BCriQ5ELp4KFX3SO2fhgIkKeXlRdSGOF7D679K06/92vZ78SJxg5q8Raw3obTdLdxFv7ModNvTyKQXl4FKUv6heceChSEmxx15fCQlKgA2q/qdRscYYmi4ciZYbOAlqbafIQbi1ZDkgZFuXxjilRLICFy6fWOIR1pwQUC3TzWF4J+ER0DNtJOOzqkJKnp+ANwf3XNTONtNAAAAAElFTkSuQmCC);" class="row-fluid">
+										<a href="/wps/portal/about-us/corporate-information/corporate-governance/">Corporate
+											Governance
+										</a>
+									</div>
+								</div>
+								<div class="img-izquierda col-xs-4">
+									<div style="background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACEAAAAUCAMAAAA0jaRDAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAJYUExURQAAADJRck5YZFpbXVpbXVpbXVlbXlpbXVpbXVpbXVpbXU1YZFpbXVpbXVpbXVpbXVpbXVpbXVpbXVpbXVpbXVpbXVpbXVpbXVpbXVpbXVpbXVpbXVpbXVpbXVpbXVpbXVpbXVpbXVpbXVpbXVpbXVpbXVpbXUhWZ1hbXlhaXldaX1pbXUBUa05YY1pbXVpbXT9Ua1pbXU5YY1pbXU5YY1NZYVpbXVZaXyxPdSlPd1ZaX1pbXVVaYE1YZE5YY1pbXU1YZFVaX1pbXUxXZVpbXU5YZFFYYlpbXS5QdEBValpbXVZaX0JValpbXVpbXUFVak5YY1pbXT9Ua05YY1VaX09YY0xXZCtPdllbXU5YY1VaYE5YZFFZYk9YY1haXlRaYFZaX1daX1lbXkpXZVpbXVpbXVpbXUJVaVpbXVpbXVpbXVRaYFpbXSpPd1pbXVpbXVpbXVpbXVpbXVpbXU1YZE5YY1pbXUFValpbXU9YY0pXZVpbXVpbXVpbXVJZYlpbXURVaFpbXU1YZEFVakhWZlpbXVpbXVpbXVpbXVpbXVpbXVpbXVpbXVpbXVpbXVpbXVpbXVpbXVpbXVpbXVpbXVpbXVpbXVpbXVpbXVpbXVpbXVpbXVpbXVpbXVpbXVpbXVpbXVpbXVpbXVpbXVpbXVpbXVpbXVpbXVpbXVpbXQBEjRJJgwNFix1LfRhKgBBIhAxHhipPdgJEiwpGhwdGiTFRcw1HhghGiRNJg0ZWaAVGiwxHhw9IhTtTbRdKgT1TbQpHiERVaR1LfhxLfiNNey1PdTBQdClOd/XSpT4AAACqdFJOUwDz5weIykQDi8cSsUHwCZhDMwYKzDcMuMYh4R0TdKalxFEBwBEVyfqD+uxw/sNbV+6v6qOm8d9V+Pr6hlywxV+vXyzqqf3eufb8G/f0JkDzmR/9yE3t6vjuv13j4On7+tDet/rS49P72ypJYVj5eH7ProU04srC/Qiy3V2egux3yBrbwtFmki42VpMFOyM1zrwPTUugDcVOHD2qsWduVL8WMSXIGEJeOifDB3atZAAAAYhJREFUKM9jYGBgKCoozOFjQAd8UcGhARAmOyeDZJ6EXBZI1NHWzsGGGcgKiQwL372KiR2sQoAFRGamZShHeFuu377ewsjEyc9nzyogYGQDq+AXBFOpPInJu1aBwToDN38wYzU31BIQ4OJNSF8FB1tc14BpsDUQSxg4UuLBYps2g6mta1fBrYFaIpW0F2S+uqbpDpDUBh24NXBLROOCPK20NIS8oveB5HbCrYFZIs4QyGEtCWKqlBwCSm2EW8NfDLGEBxFWwlVHgNbsh1kjogSxBDk4hVqOr1p1EGJNLANrvi/EEjjomsjA3nAMYs02jxgGZkUXBVlpM3uEiknzVRgYmo8eLj+Q66xrDooCBjE9Q2MJfah851SGpYtVGZSa6ipLs8WQrBaW54DE0mSFJQyirDMYeuQwYlvbXYaBQaYXKL2CYaHIdNlaDBUMPKyCDI1qMxkWqS1nmNtfL4SpgkG6rJpBVXkew4KVLBPaGbCCipq2buFps5bNlu9gwAVaRTinKM7pQxYCAGCNlawoyxH9AAAAAElFTkSuQmCC);" class="row-fluid">
+										<a href="/wps/portal/about-us/corporate-information/sustainability/">Sustainability</a>
+									</div>
+								</div>
+								<div class="img-izquierda col-xs-4">
+									<div style="background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABoAAAAcCAMAAABIzV/hAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAJ2UExURQAAAABEjQBEjVNZYQBEjQBEjQBEjQBEjVFZYgBEjQBEjUZWaFRZYFpbXVFZYlRZYFRZYFpbXVRZYFJZYQBEjUZWaABEjVpbXQBEjQBEjQBEjQBEjQBEjVFZYgBEjVRZYFNZYQBEjQBEjQBEjQBEjQBEjQBEjQBEjQBEjQBEjQBEjVZaXwBEjQBEjQBEjVpbXVpbXVRZYC1PdTVRcVpbXVJZYgBEjVhaXlFZYjhSb1NZYVFZYgBEjQBEjQBEjQBEjU1YZFBZYlJZYQBEjVVaYFBZYgBEjVpbXTRRcllbXlpbXUBUa1pbXQBEjUJValhaXlpbXVNZYTBQdFpbXT5UbFVaYEJValNZYVNZYVNaYVVaX1JZYVNZYVBZYlVaYFBYYlFZYiNNej1UbSlPd0dWZ1ZaX1pbXU9YY1JZYgBEjTdScChOeABEjVpbXSZOeFpbXUtXZVFZYldaX1FZYlBYYlNZYVFZYlNZYVFZYgBEjU9YY1pbXTJRclZbXz9Ua1JZYVFZYi1QdVlbXlBYYlBYYlpbXQBEjVJZYVJZYQBEjQBEjVNZYVpbXUtXZVBYYgBEjVhbXlZaX1NZYVlbXjZScElXZlpbXVpbXVBYYjNRckBUa1daXwJFjFFZYlVaYFFZYlBZYkBUa0VWaFFZYkhWZzBQc1NZYVFZYlpbXVdaX1FZYlBZYlRaYFJZYVpbXU9YY1haXgBEjQJEjCBMfANFixZKgRpLfxdKgQ1HhgtHhxBIhBRJghBIhR5MfR1LfgpGiA9IhR9MfQlGiBVJggRFixZKggxHhhxLfhJJhAJFjAdGiQVFig5Ihh9MfBlKfwhGiQZFiiVNeftrYMgAAACxdFJOUwAKA+0BHXTY1QYa8Osk8OztAu/infEmNL2jW5E6pkd65CKen4ZUw07J28hkt5qNFwfx+/cM1bxZ8fXxzYIJVRvwsX9p4sYjD/dRC/YcwPCCBOL5PvPp78TvrZHT5amqu7H+8vzvowH2ydz1/dAy/iPvm3qdxobQ69rG8BX9n/Hv2/o6q+8/fI7rbRjmJ+7R13z3nfn08oNEuffyQIdIf/L1GPDA+/nu51uHnO/x4yXR+Re8PZQAAAF4SURBVCjPY2AAgaaGFqHmVkEGTFBdf2LjyeN15YW5GFKlNRtB4Mhm7gx3VJm0orKqxmNg2eRYVKngdL6S2oqC7EMbN27iR5Vy3LfxcFZEfKpwSuKBQBQZE6tNQKM2bUtiTogTcEKR0jbeCAFbDvq5oJpnumsjDOy2RpHJd4DLbLQ0R5Fqz4PLbDE0QJYR5D8Fl9osi6Jp+iyEeaLiKFIztsFldiqgum/yzLNnoFJG8qhSE6ZN6uPz2AOSstBHlZo4pbe72J+De+vGra5wQU4pSQkRBqGNG09vDouJig7x9oTJyLFLy7CKMQiArdkfxBwZHgCVYdNSBNNrL0DcsDfUCyajwwhhcFw8D5LZzuMDlVHXgMowrFglvOjcxqM8vFA+lyYrzMoNqzlWLp7aAZPhVFOFu3PNxh1Ll83rgfJYlFUQ/lq/feOO+bOhHCZdJRaE1LrlSxbMhbLtzfSYUMJj4Zz+Ti4g7WbDboeRRLvaKtlzMn2dbVFEAesbqZ5LmgyOAAAAAElFTkSuQmCC);" class="row-fluid">
+										<a href="/wps/portal/about-us/corporate-information/investor-relations/">Investors
+											Relations
+										</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+			<!-- MENU TERCER NIVEL BANCOLOMBIA NEGOCIOS ESPECIALIZADOS ABOUTUS  -->
+			<div id="negociosEspecializadosAboutUs" class="row">
+				<div class="col-xs-12">
+					<div class="row">
+						<div class="col-sm-12 titulo-submenu">
+							<h2>
+								Special Business Lines
+							</h2>
+							<div class="row">
+								<div class="img-izquierda col-xs-4">
+									<div style="background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAMAAAAM7l6QAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAFrUExURQAAAFNZYStPdlpbXURVaFRZYFRZYFpbXTRRcVJZYVVaYFlbXlRaYFNZYVBYYjlTblpbXVJZYVNZYQBEjP///wFEjAlGhwhGiARFihxLffj6/M7b6a7E2qrB2Y+tzPr7/VKAsWaPuv3+/oamyCpjn018rw9Pk3CWvwRHjvX4+lB/sGWOum6Vvurw9qvB2YOkx8HS4/7+/1SCshRTlTdspY6szC5modbh7eju9Ymoyuzx9kx8roenyfD0+LjL39Tf7CZgncjX5rvN4LzO4aS81lWCsi5loShhns3a6JOwzkN1qiNenLHG3FaDsuDo8eft9AhKkNnj7hNSlQxNkViFtPf5+ytknxlWl0R2qx1Zmj5xqMfW5hxZmazC2nuew/n7/Pb4+8nX5xhWl3yfxDhtpaa+1zJpo0J0qiNdm9Xg7CdhndHd6n6gxRFQlNDd6gdJj059r5CuzbDF21mFtKe+16C51GSNuYyry3mdw2Ii2kcAAAATdFJOUwDz/Bf1bPEG+bX0WPPjr/YKmsry972kAAABd0lEQVQoz4WT9ZOCQBiGARUVRMQFFdszz77u7u7u7s4//9hdYYDxhvcHZud7lq+XIFT5WC/HkCTDeVkfYZZN8PByECgKyrxHsBmpg6ZCQFOIoh066HTbA8CggN3t1KjfJQGTJJdf5W4XaCKXuxHXLjXDkh3Ft9Fq3POb0uPbV/S9Gn9C8WmYv0DBcyYfXRE11dB1SlC64YEV7YsGVV5QfR4fwfLwlAtje2vkM/77/fFaQL/zLOGV0elITNTT2dv7YvknVn9+uLuGRtlLcKiT4HB3byp+FtbcX6H+cgSD6MLxQYsh+sk6NDMEqXyTY6JJp7PbEJMIV/Skf3hwaX5zB2AMnU+oaHky1TmQHh8SxRjAzmFqF6imxdR0cW6kDV8M53BqsLBLcauaXAUxfXYlXBhqS2YDulrTp5DHbcFNRapprLdvtNHUxkigZjBLRLMFbSS6gYKIAiPlDnWh0EB169De09VtXgerZbJaRYtFtnoGlo/ovyf4B7CcSc1Es9HiAAAAAElFTkSuQmCC);" class="row-fluid">
+										<a href="//assetmanagement.grupobancolombia.com/wps/portal/asset-management/about-us/">Asset
+											Management
+										</a>
+									</div>
+								</div>
+								<div class="img-izquierda col-xs-4">
+									<div style="background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAMAAAAM7l6QAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAFrUExURQAAAFNZYStPdlpbXURVaFRZYFRZYFpbXTRRcVJZYVVaYFlbXlRaYFNZYVBYYjlTblpbXVJZYVNZYQBEjP///wFEjAlGhwhGiARFihxLffj6/M7b6a7E2qrB2Y+tzPr7/VKAsWaPuv3+/oamyCpjn018rw9Pk3CWvwRHjvX4+lB/sGWOum6Vvurw9qvB2YOkx8HS4/7+/1SCshRTlTdspY6szC5modbh7eju9Ymoyuzx9kx8roenyfD0+LjL39Tf7CZgncjX5rvN4LzO4aS81lWCsi5loShhns3a6JOwzkN1qiNenLHG3FaDsuDo8eft9AhKkNnj7hNSlQxNkViFtPf5+ytknxlWl0R2qx1Zmj5xqMfW5hxZmazC2nuew/n7/Pb4+8nX5xhWl3yfxDhtpaa+1zJpo0J0qiNdm9Xg7CdhndHd6n6gxRFQlNDd6gdJj059r5CuzbDF21mFtKe+16C51GSNuYyry3mdw2Ii2kcAAAATdFJOUwDz/Bf1bPEG+bX0WPPjr/YKmsry972kAAABd0lEQVQoz4WT9ZOCQBiGARUVRMQFFdszz77u7u7u7s4//9hdYYDxhvcHZud7lq+XIFT5WC/HkCTDeVkfYZZN8PByECgKyrxHsBmpg6ZCQFOIoh066HTbA8CggN3t1KjfJQGTJJdf5W4XaCKXuxHXLjXDkh3Ft9Fq3POb0uPbV/S9Gn9C8WmYv0DBcyYfXRE11dB1SlC64YEV7YsGVV5QfR4fwfLwlAtje2vkM/77/fFaQL/zLOGV0elITNTT2dv7YvknVn9+uLuGRtlLcKiT4HB3byp+FtbcX6H+cgSD6MLxQYsh+sk6NDMEqXyTY6JJp7PbEJMIV/Skf3hwaX5zB2AMnU+oaHky1TmQHh8SxRjAzmFqF6imxdR0cW6kDV8M53BqsLBLcauaXAUxfXYlXBhqS2YDulrTp5DHbcFNRapprLdvtNHUxkigZjBLRLMFbSS6gYKIAiPlDnWh0EB169De09VtXgerZbJaRYtFtnoGlo/ovyf4B7CcSc1Es9HiAAAAAElFTkSuQmCC);" class="row-fluid">
+										<a href="//factoring.grupobancolombia.com/wps/portal/factoring/about-us/">Factoring
+										</a>
+									</div>
+								</div>
+								<div class="img-izquierda col-xs-4">
+									<div style="background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAMAAAAM7l6QAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAFrUExURQAAAFNZYStPdlpbXURVaFRZYFRZYFpbXTRRcVJZYVVaYFlbXlRaYFNZYVBYYjlTblpbXVJZYVNZYQBEjP///wFEjAlGhwhGiARFihxLffj6/M7b6a7E2qrB2Y+tzPr7/VKAsWaPuv3+/oamyCpjn018rw9Pk3CWvwRHjvX4+lB/sGWOum6Vvurw9qvB2YOkx8HS4/7+/1SCshRTlTdspY6szC5modbh7eju9Ymoyuzx9kx8roenyfD0+LjL39Tf7CZgncjX5rvN4LzO4aS81lWCsi5loShhns3a6JOwzkN1qiNenLHG3FaDsuDo8eft9AhKkNnj7hNSlQxNkViFtPf5+ytknxlWl0R2qx1Zmj5xqMfW5hxZmazC2nuew/n7/Pb4+8nX5xhWl3yfxDhtpaa+1zJpo0J0qiNdm9Xg7CdhndHd6n6gxRFQlNDd6gdJj059r5CuzbDF21mFtKe+16C51GSNuYyry3mdw2Ii2kcAAAATdFJOUwDz/Bf1bPEG+bX0WPPjr/YKmsry972kAAABd0lEQVQoz4WT9ZOCQBiGARUVRMQFFdszz77u7u7u7s4//9hdYYDxhvcHZud7lq+XIFT5WC/HkCTDeVkfYZZN8PByECgKyrxHsBmpg6ZCQFOIoh066HTbA8CggN3t1KjfJQGTJJdf5W4XaCKXuxHXLjXDkh3Ft9Fq3POb0uPbV/S9Gn9C8WmYv0DBcyYfXRE11dB1SlC64YEV7YsGVV5QfR4fwfLwlAtje2vkM/77/fFaQL/zLOGV0elITNTT2dv7YvknVn9+uLuGRtlLcKiT4HB3byp+FtbcX6H+cgSD6MLxQYsh+sk6NDMEqXyTY6JJp7PbEJMIV/Skf3hwaX5zB2AMnU+oaHky1TmQHh8SxRjAzmFqF6imxdR0cW6kDV8M53BqsLBLcauaXAUxfXYlXBhqS2YDulrTp5DHbcFNRapprLdvtNHUxkigZjBLRLMFbSS6gYKIAiPlDnWh0EB169De09VtXgerZbJaRYtFtnoGlo/ovyf4B7CcSc1Es9HiAAAAAElFTkSuQmCC);" class="row-fluid">
+										<a href="//fiduciaria.grupobancolombia.com/wps/portal/fiduciaria/about-us/">Fiduciaria
+										</a>
+									</div>
+								</div>
+								<div class="img-izquierda col-xs-4">
+									<div style="background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAMAAAAM7l6QAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAFrUExURQAAAFNZYStPdlpbXURVaFRZYFRZYFpbXTRRcVJZYVVaYFlbXlRaYFNZYVBYYjlTblpbXVJZYVNZYQBEjP///wFEjAlGhwhGiARFihxLffj6/M7b6a7E2qrB2Y+tzPr7/VKAsWaPuv3+/oamyCpjn018rw9Pk3CWvwRHjvX4+lB/sGWOum6Vvurw9qvB2YOkx8HS4/7+/1SCshRTlTdspY6szC5modbh7eju9Ymoyuzx9kx8roenyfD0+LjL39Tf7CZgncjX5rvN4LzO4aS81lWCsi5loShhns3a6JOwzkN1qiNenLHG3FaDsuDo8eft9AhKkNnj7hNSlQxNkViFtPf5+ytknxlWl0R2qx1Zmj5xqMfW5hxZmazC2nuew/n7/Pb4+8nX5xhWl3yfxDhtpaa+1zJpo0J0qiNdm9Xg7CdhndHd6n6gxRFQlNDd6gdJj059r5CuzbDF21mFtKe+16C51GSNuYyry3mdw2Ii2kcAAAATdFJOUwDz/Bf1bPEG+bX0WPPjr/YKmsry972kAAABd0lEQVQoz4WT9ZOCQBiGARUVRMQFFdszz77u7u7u7s4//9hdYYDxhvcHZud7lq+XIFT5WC/HkCTDeVkfYZZN8PByECgKyrxHsBmpg6ZCQFOIoh066HTbA8CggN3t1KjfJQGTJJdf5W4XaCKXuxHXLjXDkh3Ft9Fq3POb0uPbV/S9Gn9C8WmYv0DBcyYfXRE11dB1SlC64YEV7YsGVV5QfR4fwfLwlAtje2vkM/77/fFaQL/zLOGV0elITNTT2dv7YvknVn9+uLuGRtlLcKiT4HB3byp+FtbcX6H+cgSD6MLxQYsh+sk6NDMEqXyTY6JJp7PbEJMIV/Skf3hwaX5zB2AMnU+oaHky1TmQHh8SxRjAzmFqF6imxdR0cW6kDV8M53BqsLBLcauaXAUxfXYlXBhqS2YDulrTp5DHbcFNRapprLdvtNHUxkigZjBLRLMFbSS6gYKIAiPlDnWh0EB169De09VtXgerZbJaRYtFtnoGlo/ovyf4B7CcSc1Es9HiAAAAAElFTkSuQmCC);" class="row-fluid">
+										<a href="//leasing.grupobancolombia.com/wps/portal/leasing-bancolombia/about-us/">Leasing
+											Bancolombia
+										</a>
+									</div>
+								</div>
+								<div class="img-izquierda col-xs-4">
+									<div style="background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAMAAAAM7l6QAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAFrUExURQAAAFNZYStPdlpbXURVaFRZYFRZYFpbXTRRcVJZYVVaYFlbXlRaYFNZYVBYYjlTblpbXVJZYVNZYQBEjP///wFEjAlGhwhGiARFihxLffj6/M7b6a7E2qrB2Y+tzPr7/VKAsWaPuv3+/oamyCpjn018rw9Pk3CWvwRHjvX4+lB/sGWOum6Vvurw9qvB2YOkx8HS4/7+/1SCshRTlTdspY6szC5modbh7eju9Ymoyuzx9kx8roenyfD0+LjL39Tf7CZgncjX5rvN4LzO4aS81lWCsi5loShhns3a6JOwzkN1qiNenLHG3FaDsuDo8eft9AhKkNnj7hNSlQxNkViFtPf5+ytknxlWl0R2qx1Zmj5xqMfW5hxZmazC2nuew/n7/Pb4+8nX5xhWl3yfxDhtpaa+1zJpo0J0qiNdm9Xg7CdhndHd6n6gxRFQlNDd6gdJj059r5CuzbDF21mFtKe+16C51GSNuYyry3mdw2Ii2kcAAAATdFJOUwDz/Bf1bPEG+bX0WPPjr/YKmsry972kAAABd0lEQVQoz4WT9ZOCQBiGARUVRMQFFdszz77u7u7u7s4//9hdYYDxhvcHZud7lq+XIFT5WC/HkCTDeVkfYZZN8PByECgKyrxHsBmpg6ZCQFOIoh066HTbA8CggN3t1KjfJQGTJJdf5W4XaCKXuxHXLjXDkh3Ft9Fq3POb0uPbV/S9Gn9C8WmYv0DBcyYfXRE11dB1SlC64YEV7YsGVV5QfR4fwfLwlAtje2vkM/77/fFaQL/zLOGV0elITNTT2dv7YvknVn9+uLuGRtlLcKiT4HB3byp+FtbcX6H+cgSD6MLxQYsh+sk6NDMEqXyTY6JJp7PbEJMIV/Skf3hwaX5zB2AMnU+oaHky1TmQHh8SxRjAzmFqF6imxdR0cW6kDV8M53BqsLBLcauaXAUxfXYlXBhqS2YDulrTp5DHbcFNRapprLdvtNHUxkigZjBLRLMFbSS6gYKIAiPlDnWh0EB169De09VtXgerZbJaRYtFtnoGlo/ovyf4B7CcSc1Es9HiAAAAAElFTkSuQmCC);" class="row-fluid">
+										<a href="//renting.grupobancolombia.com/wps/portal/renting-colombia/about-us/">Renting
+											Colombia
+										</a>
+									</div>
+								</div>
+								<div class="img-izquierda col-xs-4">
+									<div style="background-image: url(data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAMAAAAM7l6QAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAAFrUExURQAAAFNZYStPdlpbXURVaFRZYFRZYFpbXTRRcVJZYVVaYFlbXlRaYFNZYVBYYjlTblpbXVJZYVNZYQBEjP///wFEjAlGhwhGiARFihxLffj6/M7b6a7E2qrB2Y+tzPr7/VKAsWaPuv3+/oamyCpjn018rw9Pk3CWvwRHjvX4+lB/sGWOum6Vvurw9qvB2YOkx8HS4/7+/1SCshRTlTdspY6szC5modbh7eju9Ymoyuzx9kx8roenyfD0+LjL39Tf7CZgncjX5rvN4LzO4aS81lWCsi5loShhns3a6JOwzkN1qiNenLHG3FaDsuDo8eft9AhKkNnj7hNSlQxNkViFtPf5+ytknxlWl0R2qx1Zmj5xqMfW5hxZmazC2nuew/n7/Pb4+8nX5xhWl3yfxDhtpaa+1zJpo0J0qiNdm9Xg7CdhndHd6n6gxRFQlNDd6gdJj059r5CuzbDF21mFtKe+16C51GSNuYyry3mdw2Ii2kcAAAATdFJOUwDz/Bf1bPEG+bX0WPPjr/YKmsry972kAAABd0lEQVQoz4WT9ZOCQBiGARUVRMQFFdszz77u7u7u7s4//9hdYYDxhvcHZud7lq+XIFT5WC/HkCTDeVkfYZZN8PByECgKyrxHsBmpg6ZCQFOIoh066HTbA8CggN3t1KjfJQGTJJdf5W4XaCKXuxHXLjXDkh3Ft9Fq3POb0uPbV/S9Gn9C8WmYv0DBcyYfXRE11dB1SlC64YEV7YsGVV5QfR4fwfLwlAtje2vkM/77/fFaQL/zLOGV0elITNTT2dv7YvknVn9+uLuGRtlLcKiT4HB3byp+FtbcX6H+cgSD6MLxQYsh+sk6NDMEqXyTY6JJp7PbEJMIV/Skf3hwaX5zB2AMnU+oaHky1TmQHh8SxRjAzmFqF6imxdR0cW6kDV8M53BqsLBLcauaXAUxfXYlXBhqS2YDulrTp5DHbcFNRapprLdvtNHUxkigZjBLRLMFbSS6gYKIAiPlDnWh0EB169De09VtXgerZbJaRYtFtnoGlo/ovyf4B7CcSc1Es9HiAAAAAElFTkSuQmCC);" class="row-fluid">
+										<a href="//valores.grupobancolombia.com/wps/portal/valores-bancolombia/about-us/">Valores
+											Bancolombia
+										</a>
+									</div>
+								</div>
+							</div>
+						</div>
+					</div>
+				</div>
+			</div>
+		</div>
+	</div>
+</div></div>
+		<div class="breadcrumbs">
+			<!-- renders the breadcrumb -->
+			
+
+		<div class="row-fluid">
+			<div class="container-fluid">
+				<div class="row">
+					<ol itemscope="itemscope" itemtype="http://schema.org/BreadcrumbList" class="breadcrumb col-xs-12 col-sm-10">
+						
+						
+							
+							<li itemprop="itemListElement" itemscope="itemscope" itemtype="http://schema.org/ListItem">
+									
+									<a itemprop="item" href="/wps/portal/acerca-de"> <span itemprop="name" style="display: none;">Acerca De</span>
+										<meta itemprop="position" content="1" />
+									</a>
+									
+								</li>
+						<!--
+					<li itemprop="itemListElement" itemscope="itemscope" itemtype="http://schema.org/ListItem">
+						<a itemprop="item" href="#"><span itemprop="name">Home</span>
+							<meta itemprop="position" content="1"/>
+						</a>
+					</li>
+					<li itemprop="itemListElement" itemscope="itemscope" itemtype="http://schema.org/ListItem">
+						<a itemprop="item" href="#"><span itemprop="name">Breadcrumb Level 1</span>
+							<meta itemprop="position" content="2"/>
+						</a>
+					</li>
+					<li itemprop="itemListElement" itemscope="itemscope" itemtype="http://schema.org/ListItem" class="active">
+						<span itemprop="name">Current Page</span>
+						<meta itemprop="position" content="3"/>
+					</li>
+					-->
+					</ol>
+					<div class="col-sm-2 text-right">
+						<a style="cursor: pointer;" id="btn_search" class=""></a>
+					</div>
+				</div>
+			</div>
+			<div class="topsearchbar row-fluid">
+				<div class="row-fluid">
+					<div class="container-fluid">
+						<form action="/wps/portal/acerca-de/buscador">
+							<div class="col-sm-10 col-xs-8">
+								<input type="search" placeholder="Busca lo que tú necesitas" name="termino" id="terminoBusqueda2" class="ui-autocomplete-input" autocomplete="off" />
+							</div>
+							<div class="col-xs-4 col-sm-2">
+								<div class="row">
+									<input type="submit" value="Buscar" class="btn" />
+								</div>
+							</div>
+						</form>
+					</div>
+				</div>
+			</div>
+		</div>
+	<!-- 
+<script>
+	$(function() {
+		function split(valor) {
+			return valor.split(/,\s*/);
+		}
+		function extractLast(termino) {
+			var t = split(termino).pop();
+			return t;
+		}
+
+		$("#termino")
+				// don't navigate away from the field on tab when selecting an item
+				.bind(
+						"keydown",
+						function(event) {
+							if (event.keyCode === $.ui.keyCode.TAB
+									&& $(this).autocomplete("instance").menu.active) {
+								event.preventDefault();
+							}
+						})
+				.autocomplete(
+						{
+							source : function(request, response) {
+								$
+										.getJSON(
+												"/autocompletarBusqueda/rest/servicio/consultarSugerenciasPorClave",
+												{
+													term : extractLast(request.term),
+													claveBusqueda : extractLast(request.term)
+												}, response);
+							},
+							search : function() {
+								// custom minLength
+								var term = extractLast(this.value);
+								if (term.length < 2) {
+									return false;
+								}
+							},
+							focus : function() {
+								// prevent value inserted on focus
+								return false;
+							},
+							select : function(event, ui) {
+								var terms = split(this.value);
+								// remove the current input
+								terms.pop();
+								// add the selected item
+								terms.push(ui.item.value);
+								// add placeholder to get the comma-and-space at the end
+								terms.push("");
+								this.value = terms.join("");
+								return false;
+							}
+						});
+	});
+</script>
+
+ --></div>
+	</div>
+	<div id="main-content">
+		<!-- MAIN CONTENT GOES HERE! -->
+		
+
+ 
+
+
+
+
+
+		
+
+ 
+
+
+
+
+	
+		<div class="component-control id-Z7_J19IH180L8MKD0AQ3AT1GI0IM2"><!-- lm:control dynamic spot injects markup of layout control -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+    
+
+    
+    
+    
+
+
+
+
+
+    
+    
+        
+            
+            <link rel="stylesheet" href="" type="text/css" />
+<div class="buscador-home row-fluid azul" style="min-height: 631px;">
+  <div style="background-color: #000; background-image: url(/wps/wcm/connect/083c2f1a-bd34-4f25-bd84-d5e2ef39d88a/el-banco-mas-sostenible-del-mundo-acerca-de.jpg?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-083c2f1a-bd34-4f25-bd84-d5e2ef39d88a-mno-CfB)" class="fondo row-fluid hidden-xs"></div>
+  <div style="background-color: #000; background-image: url(/wps/wcm/connect/e250c775-08ae-4f69-b7fd-47bf7c6f86e5/Banner_movil_sostenibilidad.jpg?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-e250c775-08ae-4f69-b7fd-47bf7c6f86e5-mnoQwTe)" class="fondo row-fluid visible-xs"></div>
+  <div class="fondo row-fluid">
+    <div class="row">
+      <div class="container-fluid">
+        <div class="col-xs-12">
+          <div class="row-fluid">
+            <div class="buscador">
+              <div class="container-fluid">
+                <div class="row hidden-xs">
+                  <div class="col-md-8 col-md-offset-2 busqueda">
+                    
+                  </div>
+                </div>
+                <div class="row visible-xs">
+                  <div class="col-xs-12 busqueda">
+                    
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+ <div class="contenido container-fluid">
+    <div class="col-md-12">
+      <link href="https://fonts.googleapis.com/css?family=Nunito:200,200i,300,300i,400,400i,600,600i,700,700i,800,800i,900,900i" rel="stylesheet" />
+<style type="text/css">
+.buscador-home .contenido p {
+    margin-bottom: 9px;
+
+}
+.parrafoPrimeraAutopauta{
+    font-family: nunito;
+}
+.TituloPrimerBanner{
+    color: #fff;
+    font-weight: 600;
+    font-size: 32px;
+    line-height: 1;
+    height: 100px;
+}
+.principal{
+    margin-top: 130px;
+    margin-left: 38px;
+}
+.copy{
+    color: #fff;
+    font-weight: 600;
+}
+.buttons{
+background-color: #ffd200 !important;
+    color: black;
+    font-weight: 700;
+}
+.sostetitulo1 {
+    color: #ffcc01;
+    font-weight: 800;
+    font-size: 70px;
+    line-height: 1;
+}
+
+.sostetitulo2 {
+    color: #fff;
+    font-weight: 600;
+    font-size: 22px;
+    line-height: 1;
+}
+
+
+.sostetitulo3 {
+    color: #ffcc01;
+    font-weight: 800;
+    font-size: 28px;
+    line-height: 1;
+}
+
+
+
+@media only screen and (max-width: 765px) {
+
+	.principal{
+	    margin-top: 240px;
+	    margin-left: 0px;
+	}
+
+	.TituloPrimerBanner{
+	    visibility: hidden
+	   
+	}
+
+
+	.sostetitulo1{
+	    visibility: hidden
+   
+	}
+
+
+	.sostetitulo2{
+	    font-size: 18px;
+   
+	}
+
+
+	.sostetitulo3{
+	    font-size: 18px;
+   
+	}
+
+
+
+}
+
+
+</style>
+      <div class="principal" dir="ltr">
+<div class="parrafoPrimeraAutopauta col-xs-12 col-md-4 col-md-push-0 col-sm-4 col-sm-push-6 col-lg-push-0 col-lg-5" dir="ltr">
+<p class="TituloPrimerBanner">GRACIAS A<br />
+<span class="sostetitulo1">TODOS</span></p>
+
+<div style="text-align: center;"><span class="sostetitulo2">Hoy somos el banco</span><br />
+<span class="sostetitulo3">más sostenible del mundo</span>
+
+<p class="copy"><i>Según Índice de Sostenibilidad del Dow Jones</i></p>
+</div>
+<!--<a class="btn btn-primary buttons " href="/wps/portal/negocios-pymes"><strong>Conoce más</strong></a></div>--></div>
+</div>
+
+      <!--<div class="row">
+        <div class="col-md-6"></div>
+      </div>-->
+    </div>
+  </div>
+</div>
+<!-- contingencia 
+<div  class="home-autopauta-derecha-txt row-fluid entradilla-tipo-nuevo">
+  <div class="contenido">
+    <div style="background-image: url(/wps/wcm/connect/80f414a4-7c58-4d5a-b145-af4a41c9a1a6/bg_anuncio.jpg?MOD=AJPERES)" class="fondo row-fluid hidden-xs"></div>
+    <div style="background-image: url(/wps/wcm/connect/58085274-5809-46a4-b243-b98cea2b00d1/bg_anuncio_mob.jpg?MOD=AJPERES)" class="fondo row-fluid visible-xs"></div>
+    <div class="container-fluid">
+      <div class="col-sm-12">
+        <div class="cont">
+          <h2>Información importante</h2>
+          
+          <p>El huracán Irma afectó a uno de nuestros proveedores de tecnología con sede en Miami y esto generó dificultades con el servicio de nuestros canales virtuales.</p>
+          
+          <p>Agradecemos tu comprensión y te invitamos a utilizar los siguientes canales que se encuentran funcionando:</p>
+          <p>Sucursal Telefónica, corresponsales bancarios, cajeros y sucursales físicas (según horarios disponibles).</p>
+        </div>
+      </div>
+    </div>
+  </div>
+</div> -->
+        
+        
+    
+
+    
+        
+
+
+
+
+
+        
+
+
+
+
+
+
+
+    
+
+</div>
+	
+		<div class="component-control id-Z7_416CH480L05720A1JLRPQK04D2"><!-- lm:control dynamic spot injects markup of layout control -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+    
+
+    
+    
+    
+
+
+
+
+
+    
+    
+        
+            
+            <div class="news row-fluid">
+  <div class="container-fluid">
+    <div class="row">
+      <div class="col-xs-12">
+        <div class="col-sm-4">
+  <div class="noticia-destacada row-fluid clearfix">                                                  
+    <div class="col-xs-12 contenido" style="height: 198px;">
+      <div class="leer-mas"><a title="Leer más" target="_black" href="/wps/portal/acerca-de/sala-prensa/noticias/productos-servicios/bancolombia-a-la-mano">Leer más</a></div>
+      <p class="date">02-01-2019 <span>Productos y Servicios</span></p>
+      <h2><p dir="ltr"><strong><a href="https://www.grupobancolombia.com/wps/portal/acerca-de/sala-prensa/noticias/productos-servicios/bancolombia-a-la-mano/">Bancolombia a la Mano cerró 2018 con más de un millón de cuentas </a></strong></p>
+</h2>
+      <p dir="ltr">Conoce sobre esta herramienta que permite obtener créditos, seguros, enviar giros nacionales sin costo y remesas.</p>
+
+    </div>
+  </div>
+</div><div class="col-sm-4">
+  <div class="noticia-destacada row-fluid clearfix">                                                  
+    <div class="col-xs-12 contenido" style="height: 198px;">
+      <div class="leer-mas"><a href="https://www.grupobancolombia.com/wps/portal/acerca-de/sala-prensa/noticias/innovacion/reto-b/" title="Leer más" target="_black">Leer más</a></div>
+      <p class="date">26-12-2018 <span>Innovación</span></p>
+      <h2><p dir="ltr"><strong><a href="https://www.grupobancolombia.com/wps/portal/acerca-de/sala-prensa/noticias/innovacion/reto-b/">Reto B, la ruta para desarrollar habilidades en nuevos emprendedores </a></strong></p>
+</h2>
+      <p dir="ltr">Fundación Bancolombia se une con este programa, que busca desarrollar habilidades en nuevos emprendedores.</p>
+
+    </div>
+  </div>
+</div><div class="col-sm-4">
+  <div class="noticia-destacada row-fluid clearfix">                                                  
+    <div class="col-xs-12 contenido" style="height: 198px;">
+      <div class="leer-mas"><a href="https://www.grupobancolombia.com/wps/portal/acerca-de/sala-prensa/noticias/innovacion/iniciativa-de-innovacion-social/" title="Leer más" target="_self">Leer más</a></div>
+      <p class="date">20-12-2018 <span>Innovacion</span></p>
+      <h2><p dir="ltr"><strong><a href="https://www.grupobancolombia.com/wps/portal/acerca-de/sala-prensa/noticias/innovacion/iniciativa-de-innovacion-social/">Iniciativa de innovación social que contribuye a la construcción de paz</a></strong></p>
+</h2>
+      <p dir="ltr">300 jóvenes de Urabá trabajan en proyectos de emprendimiento social para generar transformaciones en su territorio.</p>
+
+    </div>
+  </div>
+</div>
+      </div>
+    </div>
+  </div>
+</div>
+        
+        
+    
+
+    
+        
+
+
+
+
+
+        
+
+
+
+
+
+
+
+    
+
+</div>
+	
+		<div class="component-control id-Z7_6G9A1280L8MJD0AMMP9ER310P1"><!-- lm:control dynamic spot injects markup of layout control -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+    
+
+    
+    
+    
+
+
+
+
+
+    
+    
+        
+            
+            <!-- PRUEBAS - No se debe dejar en un servidor publico -->
+<script type="text/javascript" src="https://maps.googleapis.com/maps/api/js?key=AIzaSyAnnNUOK2edSwKOj0sEILcjO9PB7iI3BaE"></script>
+<!-- API DE GOOGLE TAG MANAGER -->
+<script language="javascript" src="/wps/wcm/connect/ed35f7ef-3033-4aae-bdb1-b4d4b0d6032b/googleTagManager.min.js?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-ed35f7ef-3033-4aae-bdb1-b4d4b0d6032b-lXA2Ml0"> </script>
+<!-- API DE LOCALIZATION -->
+<script language="javascript" src="/wps/wcm/connect/46d05f78-d3e9-4e10-93a6-34122c7eb3eb/localization.min.js?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-46d05f78-d3e9-4e10-93a6-34122c7eb3eb-m8sBAde"></script>
+<!-- API DE LOCALSTORAGE -->
+<script language="javascript" src="/wps/wcm/connect/042432b4-d72d-473a-a447-4c98df86eed0/localStorage.min.js?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-042432b4-d72d-473a-a447-4c98df86eed0-m8yLQFk"> </script>
+<!-- API DE WCM -->
+<script language="javascript" src="/wps/wcm/connect/a1000785-67ac-4b58-91ed-121fc6809956/wcm.min.js?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-a1000785-67ac-4b58-91ed-121fc6809956-macjGyo"> </script>
+<!-- API DE INTERACT -->
+<script language="javascript" src="/wps/wcm/connect/522f9da1-048e-44f0-9528-a60d6047c28f/interactapi.min.js?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-522f9da1-048e-44f0-9528-a60d6047c28f-m8sBCy8"> </script>
+<script language="javascript" src="/wps/wcm/connect/5d2a80e8-5665-474b-839f-69ee9a22e294/InteractConfig.min.js?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-5d2a80e8-5665-474b-839f-69ee9a22e294-ma7vZlS"> </script>
+<script language="javascript" src="/wps/wcm/connect/b2a04b80-5664-478a-951c-200ac1692c24/interact.min.js?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-b2a04b80-5664-478a-951c-200ac1692c24-macjIoC"> </script>
+<!-- Libreria script controller -->
+<script type="text/javascript" src="/wps/wcm/connect/f749eb16-27bc-4685-b513-d111fe319bd6/controller.min.js?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-f749eb16-27bc-4685-b513-d111fe319bd6-m8sBGv0"></script>
+<div id="IP_AcerDeSos" class="home-autopauta-derecha-txt row-fluid entradilla-tipo-nuevo" data-name="" data-description="">                      
+  <div class="contenido">
+	<div style="background-color: #000; background-image: url(/wps/wcm/connect/03e8618c-4fe2-4f45-84d6-015e04fa5c71/campana_default_novv3.jpg?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-03e8618c-4fe2-4f45-84d6-015e04fa5c71-lFHDZFf)" class="fondo row-fluid hidden-xs"></div>
+<div style="background-color: #000; background-image: url(/wps/wcm/connect/152a1cfd-489a-4341-abd6-092ff65780c0/campana_default_historias_mobile.jpg?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-152a1cfd-489a-4341-abd6-092ff65780c0-lDMfdqC)" class="fondo row-fluid visible-xs"></div>
+    <div class="container-fluid">
+      <div class="col-sm-6 col-sm-push-6">
+        <div class="cont">
+          <style type="text/css">@media screen and (min-width: 768px) {
+    .home-autopauta-derecha-txt .contenido .cont h2,
+    .home-autopauta-derecha-txt .contenido .cont p {
+       margin: 24px 0 24px 34px;
+    }
+    .home-autopauta-derecha-txt .contenido .cont h2 {
+        color: #00448c;
+        margin-left: 34px;
+        font-size: 26px;
+    }
+    .home-autopauta-derecha-txt .contenido .cont p {
+        font-size: 16px;
+        line-height: 26px;
+    }
+    .home-autopauta-derecha-txt .contenido .cont p:last-child {
+        text-shadow: inherit;
+    }
+    .home-autopauta-derecha-txt .contenido .cont p span {
+        display: block;
+    }
+    .home-autopauta-derecha-txt .contenido .cont p .numeral {
+        font-size: 18px;
+    }
+    
+}
+@media screen and (min-width: 992px) {
+    .home-autopauta-derecha-txt .contenido .cont &gt; *,
+    .home-autopauta-derecha-txt .contenido .cont img {
+        margin-left: 0 !important;
+    }
+}
+</style>
+<h2 dir="ltr"><strong>#ParaUnMejorFuturo</strong></h2>
+
+<p dir="ltr">Generamos un <strong>impacto positivo en la sociedad, transformando la vida de las personas</strong> que hacen parte de los diferentes programas y esquemas que apoyamos en nuestra organización.</p>
+
+<p dir="ltr"><a href="/wps/portal/acerca-de/informacion-corporativa/historias-que-transforman/" title="Conoce más" target="_self" class="btn btn-primary">Conoce más</a></p>
+
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+
+        
+        
+    
+
+    
+        
+
+
+
+
+
+        
+
+
+
+
+
+
+
+    
+
+</div>
+	
+		<div class="component-control id-Z7_416CH480L0DQ50A18GHPJI0AP3"><!-- lm:control dynamic spot injects markup of layout control -->
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    
+    
+
+    
+    
+
+    
+    
+    
+
+
+
+
+
+    
+    
+        
+            
+            <style> 
+.shortcuts{background:#00448c}
+.shortcuts h3{color:#f2d606}
+.shortcuts p{color:#fff}
+.shortcuts .item.chatea{background-position:0 -96px}
+.shortcuts .item.llamanos{background-position:-88px -96px}
+.shortcuts .item.llamarte{background-position:-190px -96px}
+.shortcuts .item.visitanos{background-position:-287px -96px}
+.links-f {
+    background: url(/wps/wcm/connect/67316a61-4c61-41c4-a576-17b333ba88d7/superintendencia.png?MOD=AJPERES&amp;amp;CACHEID=ROOTWORKSPACE-67316a61-4c61-41c4-a576-17b333ba88d7-l72tcrK) 2px 36px no-repeat scroll;
+}
+</style>
+
+<footer class="row-fluid " id="footer-content">
+  <div class="row-fluid shortcuts">
+    <div class="container-fluid">
+      <div class="row">
+        <div class="col-sm-3 block">
+          <div class="item"><a title="" target="" href="/wps/portal/personas/chatea-con-nosotros/" id="pruebaChat"><img src="/wps/wcm/connect/6f3e089a-ee79-4481-9839-3fe911e95898/icon-chatea-yellow.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-6f3e089a-ee79-4481-9839-3fe911e95898-ld2hCcT" title="" /></a></div>
+          <style type="text/css">.breadcrumb&gt;li+li:before{
+  content: "»\00a0" !important
+}
+</style>
+<script>
+$(function(){
+	$(window).load(function(){
+    	var code = "&lt;script&gt;$(function(){$('.gcb-hasChatBtn').length&gt;0&amp;&amp;$('#pruebaChat').click(function(t){t.preventDefault(),$('.gcb-startChat').trigger('click')})});&lt;\/script&gt;";
+		$('head').prepend($(code));
+	});
+});
+</script>
+<h3 dir="ltr">Chatea con nosotros</h3>
+
+          <p dir="ltr">Déjanos ayudarte a encontrar lo que buscas</p>
+
+        </div>
+        <div class="col-sm-3 block">
+          <div class="item"><a href="https://asistencia.webv2.allus.com.co/WebAPI802/ClicktoCallBancolombiaPersonas/ClicktoCall/customer.jsp?fuente=bancolombia%20contacto&amp;segmento=personas&amp;sitio=aunclic" target="_blank"><img src="/wps/wcm/connect/3d23a7c7-3485-4533-bb7a-fb9364bf0416/icon-llamanos-yellow.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-3d23a7c7-3485-4533-bb7a-fb9364bf0416-ld2c.br" alt="" width="64" height="61" title="" /></a></div>
+          <h3 dir="ltr">Llámanos</h3>
+
+          <p dir="ltr">Nuestras líneas están esperándote</p>
+
+        </div>
+        <div class="col-sm-3 block">
+          <div class="item"><a title="" target="" href="/wps/portal/personas/dejanos-llamarte/"><img src="/wps/wcm/connect/6408c1a4-8065-4ddb-88c3-426a7ff36bbf/icon-llamarte-yellow.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-6408c1a4-8065-4ddb-88c3-426a7ff36bbf-ld29iDf" alt="" width="61" height="61" title="" /></a></div>
+          <h3 dir="ltr">Déjanos llamarte</h3>
+
+          <p dir="ltr">Nos encantaría hablar contigo</p>
+
+        </div>
+        <div class="col-sm-3 block last">
+          <div class="item"><a title="" target="" href="/wps/portal/personas/buscador-sucursales"><img src="/wps/wcm/connect/c990c0de-be79-4317-b13f-0f480427274d/icon-visitanos-yellow.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-c990c0de-be79-4317-b13f-0f480427274d-ld2hXik" alt="" width="51" height="70" title="" /></a></div>
+          <h3 dir="ltr"><a href="/wps/portal/acerca-de/buscador-sucursales/" target="_blank" title="Visítanos">Visítanos</a></h3>
+
+          <p dir="ltr">Busca nuestro próximo lugar de encuentro</p>
+
+        </div>
+      </div>
+    </div>
+  </div>
+  <div class="container-fluid links-f">
+    <div class="container-fluid footer-links">
+      <div class="row">
+        <div class="col-sm-3"> 
+          <div class="row">
+            <div class="title">Comunícate con nosotros</div>
+            <ul class="check-list" dir="ltr">
+	<li><a href="/wps/portal/acerca-de/contactanos/" target="" title="">Contáctanos</a></li>
+	<li><a href="/wps/portal/acerca-de/informacion-corporativa/trabaja-con-nosotros/" target="" title="Trabaje con nosotros">Trabaja con nosotros</a></li>
+	<li><img src="/wps/wcm/connect/f28cd987-0972-4fc2-a967-e33eed56c0c1/about-us.png?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-f28cd987-0972-4fc2-a967-e33eed56c0c1-ld2dUEW" /> <a href="/wps/portal/about-us/" target="" title="">About Us</a></li>
+</ul>
+
+          </div>
+        </div>
+        <div class="col-sm-3">
+          <div class="row">
+            <div class="title">Accesos rápidos</div>
+            <ul class="check-list" dir="ltr">
+	<li><a href="/wps/portal/empresas/capital-inteligente/investigaciones-economicas/" target="" title="Investigaciones económicas">Investigaciones económicas</a></li>
+	<li><a href="/wps/portal/acerca-de/glosario/" target="" title="Glosario">Glosario</a></li>
+	<li><a href="/wps/portal/acerca-de/informacion-corporativa/sostenibilidad/" target="" title="Sostenibilidad">Sostenibilidad</a></li>
+	<li><a href="/wps/portal/acerca-de/tarifario/" target="" title="Tasas y tarifas">Tarifario</a></li>
+	<li><a href="/wps/portal/acerca-de/mapa-del-sitio/" target="" title="Mapa del sitio">Mapa del sitio</a></li>
+</ul>
+
+          </div>
+        </div>
+        <div class="col-sm-3">
+          <div class="row">
+            <div class="title">Legales</div>
+            <ul class="check-list" dir="ltr">
+	<li><a href="/wps/portal/acerca-de/documentos-legales/" target="" title="">Documentos legales</a></li>
+	<li><a href="/wps/portal/empresas/condiciones-de-uso/" target="" title="">Condiciones de uso</a></li>
+	<li><a href="/wps/portal/acerca-de/consumidor-financiero/" target="" title="">Consumidor financiero</a></li>
+	<li><a href="/wps/wcm/connect/667dfada-7812-4b67-a89d-0ce733dbbcb0/Disponibilidad+Trimestre+III+2018.pdf?MOD=AJPERES&amp;CVID=mq7RTds" target="_blank">Indicadores de disponibilidad de canales</a></li>
+</ul>
+
+          </div>
+        </div>
+        <div class="col-sm-3">
+          <div class="row">
+            <div class="title-networks">Síguenos en nuestras redes sociales</div>
+            <ul class="networks" dir="ltr">
+	<li class="facebook"><a href="https://www.facebook.com/bancolombia" title="Facebook" target="_blank">Facebook</a></li>
+	<li class="twitter"><a href="https://twitter.com/Bancolombia" title="Twitter" target="_blank">Twitter</a></li>
+	<li class="linkedin"><a href="https://www.linkedin.com/company/22690" title="Linkedin" target="_blank">Linkedin</a></li>
+	<li class="instagram"><a href="https://instagram.com/bancolombia/" title="Instagram" target="_blank">Instagram</a></li>
+	<li class="youtube"><a href="https://www.youtube.com/user/GrupoBancolombia" title="YouTube" target="_blank">YouTube</a></li>
+</ul>
+
+          </div>
+        </div>
+      </div>
+    </div>
+    <div class="container-fluid">
+      <div id="copy" class="row">
+        <div class="col-sm-12">
+         <script src="/wps/wcm/connect/d10d7136-54db-4642-80e8-d516ab3b4893/replacetext.js?MOD=AJPERES&amp;CACHEID=ROOTWORKSPACE-d10d7136-54db-4642-80e8-d516ab3b4893-lwC6t-Y"></script><script>
+jQuery('body *').replaceText( /\bBanCO2\b/gi, 'BanCO&lt;sub&gt;2&lt;/sub&gt;' );
+</script>
+<p dir="ltr"><strong>Copyright © 2018 Grupo Bancolombia.</strong> Productos y servicios de Banca, Fiducia, Leasing, Renting, Bolsa, Factoring, Banca de Inversión, Financiamiento, además del portafolio ofrecido por las entidades del exterior en Panamá, Cayman, Puerto Rico, Renting Perú, Leasing Perú, Fidu Perú y Valores Bancolombia Panamá.<br />
+<strong>Te recomendamos usar los navegadores Web Chrome 43 o superior, Firefox 38 o superior, Safari 8 o superior, Internet Explorer 10, 11. *Firefox 38 o superior y Safari 8 o superior no aplican para los sitios transaccionales.</strong><br />
+Utilizamos cookies propias y de terceros para mejorar nuestro servicio, monitorear información estadística y presentarte contenidos y publicidad relacionados con tus preferencias.</p>
+
+<p dir="ltr"> </p>
+<script>
+	//Funcion guardar nomenclatura de la pagina
+localStoragePage = "PageVisited_General";
+function LS_PageVisited_General() {
+  var ubicacion = window.location.pathname;
+  ubicacion = ubicacion.split('/');
+  var tamano = ubicacion.length;
+  var pagina = ""; var inicial = ""; var str = "";
+  jsonhome = ['/personas', '/personas/necesidades', '/personas/productos-servicios', '/personas/aprender-es-facil', '/empresas', '/empresas/necesidades', '/empresas/productos-servicios', '/empresas/capital-inteligente', '/acerca-de', '/acerca-de/negocios-especializados', '/acerca-de/informacion-corporativa', '/acerca-de/sala-prensa', '/about-us', '/banca-inversion/acerca-de', '/banca-inversion/productos-servicios', '/banca-inversion/industrias', '/fiduciaria', '/fiduciaria/acerca-de', '/fiduciaria/productos-servicios', '/leasing-bancolombia', '/leasing-bancolombia/acerca-de', '/leasing-bancolombia/productos-servicios', '/renting-colombia', '/renting-colombia/acerca-de', '/renting-colombia/productos-servicios', '/valores-bancolombia', '/valores-bancolombia/acerca-de', '/valores-bancolombia/productos-servicios', '/factoring', '/factoring/acerca-de', '/factoring/productos-servicios', '/asset-management', '/asset-management/acerca-de', '/asset-management/productos-servicios', '/comercio-internacional', '/comercio-internacional/necesidades', '/sufi', '/sufi/credito-para-lo-que-necesitas', '/sufi/somos-sufi', '/sufi/aprende-con-sufi', '/valores-banistmo', '/valores-banistmo/acerca-de', '/valores-banistmo/productos-servicios', '/fiduperu', '/fiduperu/acerca-de', '/fiduperu/productos-servicios', '/leasing-peru', '/leasing-peru/acerca-de', '/leasing-peru/productos-servicios', '/renting-peru', '/renting-peru/acerca-de', '/renting-peru/productos-servicios', '/sucursal-panama', '/sucursal-panama/acerca-de', '/sucursal-panama/productos-servicios', '/panama', '/panama/acerca-de', '/panama/productos-servicios', '/cayman', '/cayman/acerca-de', '/cayman/productos-servicios', '/bancolombia-puerto-rico', '/bancolombia-puerto-rico/acerca-de', '/bancolombia-puerto-rico/productos-servicios'];
+  var arracomp = [];
+  var comp = [];
+  var k = 0;
+   if (tamano &gt;= 5) {
+      for (i = 3; i &lt; 5; i++) {
+          arracomp[k] = ubicacion[i];
+          k += 1;
+      }
+  } else {
+      arracomp[0] = ubicacion[3];
+  }
+   comp = []
+  if (arracomp[1] != "" &amp;&amp; arracomp[1] != null) {
+      comp[0] = '/' + arracomp[0] + '/' + arracomp[1];
+      comp[1] = '/' + arracomp[0];
+  } else {
+      comp[0] = '/' + arracomp[0];
+  }
+   for (k = 3; k &lt; tamano; k++) {
+      var arraystr = ubicacion[k].split('-');
+      tam = arraystr.length;
+      if (tam &gt; 1) {
+          for (j = 0; j &lt; tam; j++) {
+              str = str + arraystr[j].substr(0, 6);
+          }
+          str = str;
+      } else {
+          str = str + ubicacion[k].substr(0, 6);
+      }
+  }
+   pagina = str.toUpperCase()
+   return pagina;
+}
+
+//funcion para guardar en el localstorage la navegación
+function LS_setPageVisited_General() {
+  var getlocal = localStorage.getItem(localStoragePage);
+  pagina = LS_PageVisited_General();
+   if (getlocal === null || getlocal === "") {
+      localStorage.setItem(localStoragePage, pagina);
+  } else {
+      arraygetlocal = getlocal.split('|');
+      tam = arraygetlocal.length;
+      var str1 = '';
+       if (tam &gt; 1) {
+          for (i = 0; i &lt; tam; i++) {
+              if (pagina === arraygetlocal[i]) {
+                  str1 = getlocal;
+                  break
+              } else {
+                  str1 = getlocal + "|" + pagina;
+              }
+          }
+          localStorage.setItem(localStoragePage, str1);
+      } else {
+          if (getlocal === pagina) {
+           } else {
+              str1 = getlocal + "|" + pagina;
+              localStorage.setItem(localStoragePage, str1);
+          }
+      }
+  }
+}
+
+LS_setPageVisited_General();
+
+</script>
+        </div>
+      </div>
+    </div>
+  </div>
+</footer>
+        
+        
+    
+
+    
+        
+
+
+
+
+
+        
+
+
+
+
+
+
+
+    
+
+</div>
+	 
+
+	 
+</div>
+	<script type="text/javascript" src="/Bancolombia_Acercade_estatico/themes/Bancolombia_Personas/js/angular-locale-min_es-co.js" defer=""></script>
+	<!--
+	<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/angular.js/1.2.28/angular-animate.js"	></script>
+	-->
+	<script type="text/javascript" src="/Bancolombia_Acercade_estatico/themes/Bancolombia_Personas/js/angular-animate.js"></script>
+	<!--
+	<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/angular.js/1.2.19/angular-sanitize.min.js"	></script>
+	-->
+	<script type="text/javascript" src="/Bancolombia_Acercade_estatico/themes/Bancolombia_Personas/js/angular-sanitize.min.js"></script>
+	<!--
+	<script type="text/javascript" src="//cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/3.0.0/js/bootstrap.min.js"	></script>
+	-->
+	<script type="text/javascript" src="/Bancolombia_Acercade_estatico/themes/Bancolombia_Personas/js/bootstrap.min.js"></script>
+	<!-- 
+	<script type="text/javascript" src="js/app.js" ></script>
+	-->
+	<script type="text/javascript" src="/Bancolombia_Acercade_estatico/themes/Bancolombia_Personas/js/breadcrumb.js"></script>
+	
+	<script type="text/javascript" src="/Bancolombia_Acercade_estatico/themes/Bancolombia_Personas/js/app-min.js"></script>
+	
+	<!-- 
+	<script type="text/javascript" src="js/modules/slide.js" defer></script>
+	<script type="text/javascript" src="js/modules/modules.js" defer></script>
+	<script type="text/javascript" src="js/autocompletar.js"></script>
+	-->
+	
+	
+	
+	<!-- 
+	<script type="text/javascript" src="js/modules/modules-min.js" defer></script>
+	-->
+	<script type="text/javascript" src="/Bancolombia_Acercade_estatico/themes/Bancolombia_Personas/js/autocompletar-min.js"></script>
+
+
+<div class="gcb-startBtnsContainerOtros"><div class="gcb-startOpciones" onclick="mostrar_otros_servicios()"></div><div class="gcb-startOtros"><div class="gcb-startClicktoCall gcb-BtnsOtros gcb-border-redondos" onclick="abrir_servicio(&quot;clicktocall&quot;)"></div><div class="gcb-startCallBack gcb-BtnsOtros gcb-border-redondos" onclick="abrir_servicio(&quot;callback&quot;)"></div><div class="gcb-startOculto gcb-BtnsOtros" onclick="mostrar_otros_servicios()"></div></div></div><div class="gcb-startBtnsContainer gcb-BtnChatNew"><div class="gcb-startChat gcb-hasChatBtn" onclick="start_chat()"></div><div class="gcb-BtnChatCargando"></div></div><ul class="ui-autocomplete ui-front ui-menu ui-widget ui-widget-content" id="ui-id-1" tabindex="0" style="display: none;"></ul><span role="status" aria-live="assertive" aria-relevant="additions" class="ui-helper-hidden-accessible"></span>
+<script type="text/javascript" id="">!function(b,e,f,g,a,c,d){b.fbq||(a=b.fbq=function(){a.callMethod?a.callMethod.apply(a,arguments):a.queue.push(arguments)},b._fbq||(b._fbq=a),a.push=a,a.loaded=!0,a.version="2.0",a.queue=[],c=e.createElement(f),c.async=!0,c.src=g,d=e.getElementsByTagName(f)[0],d.parentNode.insertBefore(c,d))}(window,document,"script","https://connect.facebook.net/en_US/fbevents.js");fbq("init","1057072597705880");fbq("track","PageView");</script>
+<noscript>
+ &lt;img height="1" width="1" src="https://www.facebook.com/tr?id=1057072597705880&amp;amp;ev=PageView
+&amp;amp;noscript=1"&gt;
+</noscript>
+<script type="text/javascript" id="" src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.9-1/crypto-js.min.js"></script> 
+<iframe name="__bkframe" height="0" width="0" frameborder="0" style="display:none;position:absolute;clip:rect(0px 0px 0px 0px)" src="about:blank"></iframe> 
+<script type="text/javascript" id="" src="//tags.bkrtx.com/js/bk-coretag.js"></script><script type="text/javascript" id="">var url=window.location.href,keySource="utm_source";if(-1&lt;url.indexOf(keySource+"\x3d")){var valueFound=url.substr(url.indexOf(keySource+"\x3d")+keySource.length+1).split("\x26")[0];localStorage.setItem(keySource,valueFound)};</script><script type="text/javascript" id="">var url=window.location.href,keyMedium="utm_medium";if(-1&lt;url.indexOf(keyMedium+"\x3d")){var valueFound=url.substr(url.indexOf(keyMedium+"\x3d")+keyMedium.length+1).split("\x26")[0];localStorage.setItem(keyMedium,valueFound)};</script><img height="1" width="1" src="https://tags.bluekai.com/site/71145?limit=1&amp;phint=source%3Dnull" /><script type="text/javascript" id="">(function(){try{if(!google_tag_manager["GTM-W95WRK"].macro(3)&amp;&amp;"sent"!=google_tag_manager["GTM-W95WRK"].macro(4)||"sent"==google_tag_manager["GTM-W95WRK"].macro(5)&amp;&amp;-1==document.referrer.indexOf("bancolombia.com"))document.cookie="admanCookieReferrer\x3d"+document.referrer+"; path\x3d/; domain\x3d.grupobancolombia.com"}catch(a){console.log("adman exception - create cookie - "+a.message)}})();</script><iframe name="_hjRemoteVarsFrame" title="_hjRemoteVarsFrame" id="_hjRemoteVarsFrame" style="display: none !important; width: 1px !important; height: 1px !important; opacity: 0 !important; pointer-events: none !important;" src="https://vars.hotjar.com/rcj-da10bd4908deb9e19dfde013ec3fe4ff.html"></iframe>
+ 
+<script type="text/javascript" id="">bk_addPageCtx("searchQuery","undefined");bk_doJSTag(71145,1);</script> 
+ <div id="ads"></div><script src="https://px.ads.linkedin.com/collect/?time=1546792156644&amp;pid=56809&amp;url=https%3A%2F%2Fwww.grupobancolombia.com%2Fwps%2Fportal%2Facerca-de&amp;fmt=js&amp;s=1" type="text/javascript"></script><script src="https://analytics.twitter.com/i/adsct?p_id=Twitter&amp;p_user_id=0&amp;txn_id=nvl9j&amp;events=%5B%5B%22pageview%22%2Cnull%5D%5D&amp;tw_sale_amount=0&amp;tw_order_quantity=0&amp;tw_iframe_status=0&amp;tpx_cb=twttr.conversion.loadPixels&amp;tw_document_href=https%3A%2F%2Fwww.grupobancolombia.com%2Fwps%2Fportal%2Facerca-de" type="text/javascript"></script></body></html>
