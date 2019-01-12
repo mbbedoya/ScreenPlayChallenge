@@ -14,11 +14,11 @@ public class SimuladorDeAhorroPage extends PageObject {
 	public static final Target PARA_QUE_QUIERES_AHORRAR_MESSAGE = Target
 			.the("Message that says if is there a problem with the field ¿Para que quieres ahorrar?")
 			.located(By.xpath("//*[@id=\"browser-Off\"]/div/div/div[1]/form/div[2]/div/div"));
+	
+	public static final Target PRUEBA = Target
+			.the("Message that says if is there a problem with the field ¿Para que quieres ahorrar?")
+			.located(By.xpath("//*[@id=\"browser-Off\"]/div/ul/li[2]/a/div[2]/div/p"));
 
-	public void simuladorDeAhorroPage() {
 
-		SimuladorDeAhorroPage forgotPasswordPage = this.switchToPage(SimuladorDeAhorroPage.class);
-		forgotPasswordPage.open();
-
-	}
+	
 }

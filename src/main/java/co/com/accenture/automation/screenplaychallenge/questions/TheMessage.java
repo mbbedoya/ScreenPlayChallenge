@@ -7,21 +7,26 @@ import net.serenitybdd.screenplay.targets.Target;
 
 public class TheMessage implements Question<String> {
 
-	private static Target target;
+	private Target target;
+
+	public TheMessage(Target target) {
+		this.target = target;
+	}
 
 	public static TheMessage of(Target target) {
 
-		TheMessage.target = target;
-
-		return new TheMessage();
+		return new TheMessage(target);
 	}
+
+	/**
+	 * The previous method is an example of "Dependency inversion principle"
+	 * implement the Dependency Injection pattern through the TheMessage() method.
+	 */
 
 	@Override
 	public String answeredBy(Actor actor) {
 
 		return Text.of(target).viewedBy(actor).asString();
 	}
-
-
 
 }

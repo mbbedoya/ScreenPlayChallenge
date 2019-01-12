@@ -1,22 +1,29 @@
 package co.com.accenture.automation.screenplaychallenge.questions;
 
-import co.com.accenture.automation.screenplaychallenge.userinterfaces.SimuladorDeAhorroPage;
 import net.serenitybdd.screenplay.Actor;
 import net.serenitybdd.screenplay.Question;
 import net.serenitybdd.screenplay.questions.CurrentVisibility;
+import net.serenitybdd.screenplay.targets.Target;
 
 public class TheElementVisibility implements Question<String> {
 
-	public static TheElementVisibility is() {
+	private Target target;
 
-		return new TheElementVisibility();
+	public TheElementVisibility(Target target) {
+
+		this.target = target;
+
+	}
+
+	public static TheElementVisibility of(Target target) {
+
+		return new TheElementVisibility(target);
 	}
 
 	@Override
 	public String answeredBy(Actor actor) {
 
-		if (CurrentVisibility.of(SimuladorDeAhorroPage.SIMULA_TUS_AHORROS_SEND_FORM_BUTTON).viewedBy(actor).asString()
-				.equals("true")) {
+		if (CurrentVisibility.of(target).viewedBy(actor).asString().equals("true")) {
 			return "Visible";
 		} else {
 			return "Is not visible";

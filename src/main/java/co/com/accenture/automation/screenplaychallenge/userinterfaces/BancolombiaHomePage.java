@@ -11,4 +11,9 @@ public class BancolombiaHomePage extends PageObject {
 	public static final Target PERSONAS_BUTTON = Target.the("The button to link to the Personas page")
 			.located(By.id("linkPersonas"));
 
+	/**
+	 * Here in this page we can see the application of the "Single responsibility
+	 * principle" because this class is only for mapping the elements of this page,
+	 * this is its responsibility.
+	 */
 }

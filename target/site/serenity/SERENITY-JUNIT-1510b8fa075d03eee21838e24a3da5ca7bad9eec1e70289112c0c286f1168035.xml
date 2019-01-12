@@ -1,1 +1,8 @@
-<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="0" name="Bancolombia car credit simulation" skipped="0" tests="1" time="33.94" timestamp="2019-01-07 01:07:40"><testcase name="Form not fill"/></testsuite>
+<?xml version="1.0" encoding="UTF-8"?><testsuite errors="0" failures="1" name="Bancolombia car credit simulation" skipped="0" tests="1" time="40.95" timestamp="2019-01-12 12:53:11"><testcase name="Form not fill"><failure message="&#10;Expected: &quot;Este campo es obligatorio.Como fue&quot;&#10;     but: was &quot;Este campo es obligatorio.&quot;" type="java.lang.AssertionError">
+Expected: "Este campo es obligatorio.Como fue"
+     but: was "Este campo es obligatorio."</failure><system-err>
+Expected: "Este campo es obligatorio.Como fue"
+     but: was "Este campo es obligatorio."&#13;
+co.com.accenture.automation.screenplaychallenge.stepdenitions.BancolombiaSimulationStepDefinitios.iHopeToSeeTheErrorMessageForEveryField(BancolombiaSimulationStepDefinitios.java:72)&#13;
+✽.I hope to see the error message "Este campo es obligatorio." for every field(src/test/resources/features/bancolombia_simulation.feature:20)&#13;
+</system-err></testcase></testsuite>

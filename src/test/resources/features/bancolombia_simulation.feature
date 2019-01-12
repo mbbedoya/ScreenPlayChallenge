@@ -19,13 +19,13 @@
     When I see the fields below
     Then I hope to see the error message "Este campo es obligatorio." for every field
 
-
+  @ThirdScenario
   Scenario Template: Fill the form with Wrong information
     When I try to fill the field Para que quieres ahorrar "Este campo es obligatorio." with wrong information
     Then I hope to see the error message <errorMessage> for this field
 
     Examples:
-							| ParaQueQuieresAhorrar|
+							|       errorMessage   |
 							|         "Hi"         |
 							|         "Every"      |
 						  |         "One"        |
